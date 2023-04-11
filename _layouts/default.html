@@ -30,12 +30,16 @@
 			<h3>{{site.roles}}</h3>
         {% endif %}
 
-        {% if site.subjects %}
-			{% if site.subjects2 %}
-				<h3>{{site.subjects}} / <br/>
-				{{site.subjects2}}</h3>
+        {% if site.subject1 %}
+			<h4>
+			&bull; {{site.subject1}} 
+			{% if site.subject2 %}
+				<br/>&bull; {{site.subject2}} 
+				{% if site.subject3 %}
+					<br/>&bull; {{site.subject3}} 
+				{% endif %}
 			{% endif %}
-			
+			</h4>	
         {% endif %}
 		
 		        
@@ -67,11 +71,12 @@
 
       </section>
       <footer>
-        <!--
+		<!--
 		{% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
-		-->
+		
+		
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>

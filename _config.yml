@@ -2,6 +2,7 @@ logo: /assets/img/logo.png
 show_downloads: false
 theme: jekyll-theme-minimal
 title: Nasr Kasrin
-roles: R&D | product | architecture
-subjects: (Meta)Data Managment
-subjects2: (Semantic/social) web
+roles: R&D | Product | Architecture
+subject1: (Meta)Data Managment
+subject2: Web (Semantic/Social)
+#subject3: 
