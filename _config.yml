@@ -1,8 +1,8 @@
 logo: /assets/img/logo.png
 show_downloads: false
 theme: jekyll-theme-minimal
-title: Nasr Kasrin
-roles: R&D | Product | Architecture
+title: NASR KASRIN
+roles: Product | R&D | Architecture
 subject1: (Meta)Data Managment
 subject2: Web (Semantic/Social)
-#subject3: 
+subject3: Logic-based AI (not ML)
