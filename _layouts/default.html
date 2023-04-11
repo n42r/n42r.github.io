@@ -23,11 +23,11 @@
 
 
         {% if site.roles %}
-			<p>{{site.roles}}</p>
+			<h3>{{site.roles}}</h3>
         {% endif %}
 
         {% if site.subjects %}
-			<p>{{site.subjects}}</p>
+			<h3>{{site.subjects}}</h3>
         {% endif %}
 		
         
@@ -59,9 +59,11 @@
 
       </section>
       <footer>
-        {% if site.github.is_project_page %}
+        <!--
+		{% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
+		-->
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>

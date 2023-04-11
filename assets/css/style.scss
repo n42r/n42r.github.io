@@ -21,14 +21,21 @@
 
 @import "jekyll-theme-minimal";
 
+html * {
+ font-family: 'Montserrat', Fallback, sans-serif;
+}
+
 body {background-color: #181a1b;} 
 
 h1 {
- font-family: 'Montserrat', Fallback, sans-serif;
  color: #cdd9e5;
- font-size: 34px;
- 
+ font-size: 38px;
 }
+
+h3 {
+ color: #adbac7;
+}
+
 
 body {
   font-family: 'Montserrat', Fallback, sans-serif;
