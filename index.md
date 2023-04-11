@@ -11,6 +11,6 @@ Before that, I worked on product design and development of social media apps and
 With regards to my background, I am one of those world-citizen types who spent their lives in multiple countries and internalized various cultures: it has its pros and cons. I'm intuitively-driven in how I approach both work and life.
 
 
-I'm open to (meta)data management / data architecture consulting work and looking to find a work environment that I fit it nicely. Reach me at: nk.eon48[at]slmail.me
+I'm open to (meta)data management / data architecture consulting work and looking to find a work environment where I fit in nicely. Reach me at: nk.eon48[at]slmail.me
 
 
