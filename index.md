@@ -4,7 +4,7 @@ layout: default
 
 ([🇩🇪](index_de)) Nasr is the name. I have 10+ years of experience in technology and digital media (here's [my resume](assets/pdf/kasrin_resume_2023_04.pdf)). 
 
-In February 2023, I successfully defended my PhD in at the Faculty of Informantion Systems & Applied Computer Sciences at the University of [Bamberg](https://www.uni-bamberg.de/en/wiai/).
+In February 2023, I successfully defended my PhD at the Faculty of Informantion Systems & Applied Computer Sciences, University of [Bamberg](https://www.uni-bamberg.de/en/wiai/).
 
 My strengths lie at the intersection of: product design & development, R&D, [application architecture](https://en.wikipedia.org/wiki/Applications_architecture), and business strategy.
 
@@ -16,7 +16,3 @@ I am one of those world-citizen types who spent their lives in multiple countrie
 
 I'm open to consulting work and looking to find a work environment where I fit in nicely.
 
-
----
-[^1]: [Bamberg](https://www.uni-bamberg.de/en/wiai/)
-[^2]: 
