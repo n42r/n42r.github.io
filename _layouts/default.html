@@ -29,14 +29,14 @@
 			<h3>{{site.roles}}</h3>
         {% endif %}
 
-        {% if site.email %}
-		
+        {% if site.email %}		
 			<img src="assets/img/email-20.png"/>: {{site.email}} <br/>
         {% endif %}
 
         {% if site.linkedin %}
-			<img src="assets/img/ln-20-4.png"/>: <a href="https://www.linkedin.com/in/{{site.linkedin}}">{{site.linkedin}} </a>
+			<img src="assets/img/ln-20-4.png"/>: <a href="https://www.linkedin.com/in/{{site.linkedin}}">{{site.linkedin}} </a> <br/>
         {% endif %}		
+
 		        
 		<!--
 		<p>{{ site.description | default: site.github.project_tagline }}</p>
@@ -61,6 +61,13 @@
  -->
 	</header>
       <section>
+<!--
+        {% if site.german %}
+			
+			 <p style="text-align:right;">	 🇩🇪 :<a href="{{site.german}}"> Lese auf Deutsch </a></p>
+			 
+        {% endif %}
+-->
 
       {{ content }}
 
