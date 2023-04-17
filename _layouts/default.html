@@ -25,23 +25,17 @@
           <img src="{{site.logo | relative_url}}" alt="Photo" />
         {% endif %}
 
-
         {% if site.roles %}
 			<h3>{{site.roles}}</h3>
         {% endif %}
 
-        {% if site.subject1 %}
-			<h4>
-			&bull; {{site.subject1}} 
-			{% if site.subject2 %}
-				<br/>&bull; {{site.subject2}} 
-				{% if site.subject3 %}
-					<br/>&bull; {{site.subject3}} 
-				{% endif %}
-			{% endif %}
-			</h4>	
+        {% if site.email %}
+			📧: {{site.email}} <br/>
         {% endif %}
-		
+
+        {% if site.linkedin %}
+			<img src="assets/img/ln-20-4.png"/>: <a href="https://www.linkedin.com/in/{{site.linkedin}}">{{site.linkedin}} </a>
+        {% endif %}		
 		        
 		<!--
 		<p>{{ site.description | default: site.github.project_tagline }}</p>
@@ -70,8 +64,8 @@
       {{ content }}
 
       </section>
-      <footer>
-		<!--
+	<!--
+	  <footer>			
 		{% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
