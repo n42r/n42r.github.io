@@ -9,7 +9,7 @@ In February 2023, I successfully defended my Ph.D. at the Faculty of Information
 
 My strengths lie at the intersection of product design & development, R&D, [application architecture](https://en.wikipedia.org/wiki/Applications_architecture), and business strategy.
 
-In the past couple of years, my energy has been dedicated to developing a *data architecture* for inter-organizational data sharing and exchange (something between a data lake and a data mesh but for multiple organizations). See [this page](phd) for an overview of my doctoral work.
+In the past couple of years, my energy has been dedicated to developing a *data architecture* for inter-organizational data sharing and exchange (something between a data lake and a data mesh but for more than one organization). See [this page](phd) for an overview of my doctoral work.
 
 Before that, I worked on product design and development in a small to medium size company that develops social media apps and games. I also worked in logic-based AI (not machine learning) in developing computer players for board games, as well as doing academic research in cognitive robotics. I have also taken teaching and managerial roles in universities. Here's a [portfolio](assets/pdf/kasrin_protfolio_upgraded_23.pdf) of projects I was involved in before my doctoral work (2005-2013).
 
