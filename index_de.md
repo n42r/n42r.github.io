@@ -10,7 +10,7 @@ Nasr ist mein Name. Ich habe mehr als zehn Jahre Erfahrung im Bereich Technologi
 Ich habe meine Dissertation im Februar 2023 an der Fakultät Wirtschaftsinformatik & Angewandte Informatik der Universität Bamberg, erfolgreich verteidigt.
 
  
-Meine Stärken liegen an der Schnittstelle von Produktdesign und -entwicklung, Forschung und Entwicklung, Anwendungsarchitektur und Unternehmensstrategie.
+Meine Stärken liegen an der Schnittstelle von Produktdesign und -entwicklung, Forschung und Entwicklung, Architektur und Unternehmensstrategie.
 
 
 In den letzten Jahren habe ich mich mit der Entwicklung einer Datenarchitektur für die gemeinsame Nutzung und den Austausch von Daten zwischen verschiedenen Organisationen befasst (eine Mischung aus Data Lake und Data Mesh, aber für mehr als eine Organisation). Einen Überblick über meine Doktorarbeit finden Sie auf [dieser Seite](phd) (Englisch).
