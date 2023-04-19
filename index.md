@@ -3,7 +3,7 @@ layout: default
 ---
 <p style="text-align:right;"> <a href="index_de"> 🇩🇪 </a></p>
 
-Nasr is the name. I have 10+ years of experience in technology and digital media (here's [my resume](assets/pdf/kasrin_resume_2023_04.pdf)).
+Nasr is the name. I have 10+ years of experience in technology and digital media (here's [my resume](blob/main/assets/pdf/kasrin_resume_2023_04.pdf.pdf)). Another way to understand my background is to look at my [experience matrix](matrix).
 
 In February 2023, I successfully defended my Ph.D. at the Faculty of Information Systems & Applied Computer Sciences, University of Bamberg, Germany.
 
