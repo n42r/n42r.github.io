@@ -6,9 +6,9 @@ layout: plain
 
 | Subject | Role(s) | Duration |
 |---|---|---| 
-| (Meta)Data Architecture, Data/Information/Knowledge Management | Product Design, R&D, Team Leadership | 5 Years | 
-| Social Media Apps | Product Development, Software Architecture, R&D, Business-Technical Interface | 3 Years | 
+| (Meta)Data Architecture, Data/Information/Knowledge Management | R&D, Product Design, Application Architecture, Team Leadership | 5 Years | 
+| Social Media Apps | Product Development, Business-Technical Interface, R&D, Software Architecture | 3 Years | 
 | AI[^1]/Cognitive Science | Research, Programming, Team Leadership | 3 Years |
-| Games/Robotics | Programmer | 4 Years (Undergraduate) |
+| Games/Robotics | Programming | 4 Years (Undergraduate) |
 
 [^1]: Symbolic AI (Not machine learning).
