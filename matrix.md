@@ -4,7 +4,7 @@ layout: plain
 
 # Experience Matrix (Most Recent First)
 
-| Subject | Role(s) | Duration | Mindset |
+| Subject | Role(s) | Duration | Mindset(s) |
 |---|---|---|---|
 | (Meta)Data Architecture, Data/Information/Knowledge Management | R&D, Product Design, Application Architecture, Team Leadership | 5 Years |  Innovation, Product-Driven, B2B, Hacker Mindset |
 | Social Media Apps | Product Development, Business-Technical Interface, R&D, Software Architecture | 3 Years | Product-Driven, B2C Mindset |
