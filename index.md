@@ -7,7 +7,7 @@ Nasr is the name. I have 10+ years of experience in technology and digital media
 
 In February 2023, I successfully defended my Ph.D. at the Faculty of Information Systems & Applied Computer Sciences, University of Bamberg, Germany.
 
-My strengths lie at the intersection of product design & development, R&D, [application architecture](https://en.wikipedia.org/wiki/Applications_architecture), and business strategy.
+My strengths lie at the intersection of product design & development, R&D, architecture, and business strategy.
 
 In the past couple of years, my energy has been dedicated to developing a *data architecture* for inter-organizational data sharing and exchange (something between a data lake and a data mesh but for more than one organization). See [this page](phd) for an overview of my doctoral work.
 
