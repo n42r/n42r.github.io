@@ -4,7 +4,7 @@ layout: default
 
 <p style="text-align:right;"> <a href="index"> 🇬🇧 </a></p>
 
-Nasr ist mein Name. Ich habe mehr als zehn Jahre Erfahrung im Bereich Technologie und digitale Medien. Hier ist [mein Lebenslauf](assets/pdf/kasrin_resume_2023_04.pdf) (Englisch).
+Nasr ist mein Name. Ich habe mehr als zehn Jahre Erfahrung im Bereich Technologie und digitale Medien. Hier ist mein [Lebenslauf](assets/pdf/kasrin_resume_2023_04.pdf) und [Erfahrungsmatrix](matrix) (Beide auf Englisch).
 
 
 Ich habe meine Dissertation im Februar 2023 an der Fakultät Wirtschaftsinformatik & Angewandte Informatik der Universität Bamberg, erfolgreich verteidigt.
