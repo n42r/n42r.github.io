@@ -2,7 +2,7 @@
 layout: plain
 ---
 
-# Experience Matrix (Reverse Chronological)
+# Experience Matrix (Most Recent First)
 
 | Subject | Role(s) | Duration | Mindset |
 |---|---|---|---|
