@@ -3,13 +3,11 @@ layout: default
 ---
 <p style="text-align:right;"> <a href="index_de"> 🇩🇪 </a></p>
 
-Nasr is the name. I have 10+ years of experience in technology and digital media. 
+Nasr is the name. I have 10+ years of experience in technology and digital media. My strengths lie at the intersection of product design & development, R&D, architecture, and business strategy.
 
-Here's my [resume](https://raw.githubusercontent.com/n42r/n42r.github.io/main/assets/pdf/kasrin_resume_2023_04.pdf). Alternatively, you can have a look at my [experience matrix](matrix): an overview of the various subjects I worked in, as well as the roles and mindsets I have assumed therein.
+If you're looking for my resume [here it is](https://raw.githubusercontent.com/n42r/n42r.github.io/main/assets/pdf/kasrin_resume_2023_04.pdf). Alternatively, you can have a look at my "[background matrix](matrix)," which is a table of subjects, roles, and mindsets I have experience in.
 
-In February 2023 I successfully defended my Ph.D. at the Faculty of Information Systems & Applied Computer Sciences, University of Bamberg, Germany.
-
-My strengths lie at the intersection of product design & development, R&D, architecture, and business strategy.
+Just recently, I defended my Ph.D. at the Faculty of Information Systems & Applied Computer Sciences, University of Bamberg, Germany.
 
 In the past couple of years, my energy has been dedicated to developing a *data architecture* for inter-organizational data sharing and exchange (something between a *data lake* and a *data mesh* but for more than one organization). See [this page](phd) for an overview of my doctoral work.
 
