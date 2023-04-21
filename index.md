@@ -5,7 +5,7 @@ layout: default
 
 Nasr is the name. I have 10+ years of experience in technology and digital media. 
 
-Here's my [resume](https://raw.githubusercontent.com/n42r/n42r.github.io/main/assets/pdf/kasrin_resume_2023_04.pdf.pdf). Alternatively, you can have a look at my [experience matrix](matrix): an overview of the various subjects I worked in, as well as the roles and mindsets I have assumed therein.
+Here's my [resume](https://raw.githubusercontent.com/n42r/n42r.github.io/main/assets/pdf/kasrin_resume_2023_04.pdf). Alternatively, you can have a look at my [experience matrix](matrix): an overview of the various subjects I worked in, as well as the roles and mindsets I have assumed therein.
 
 In February 2023, I successfully defended my Ph.D. at the Faculty of Information Systems & Applied Computer Sciences, University of Bamberg, Germany.
 
