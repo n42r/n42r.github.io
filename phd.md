@@ -2,7 +2,7 @@
 layout: plain
 ---
 # The Basin Network Model
-In my doctoral work, I proposed a novel *[data architecture](https://en.wikipedia.org/wiki/Data_architecture)* for inter-organizational data sharing and exchange (something in between a [data lake](https://en.wikipedia.org/wiki/Data_lake) and a [data mesh](https://en.wikipedia.org/wiki/Data_mesh) but for multiple organizations). 
+In my doctoral work, I proposed a novel *[data architecture](https://en.wikipedia.org/wiki/Data_architecture)* for inter-organizational data sharing and exchange. The proposal is something in between a [data lake](https://en.wikipedia.org/wiki/Data_lake) and a [data mesh](https://en.wikipedia.org/wiki/Data_mesh), but for multiple organizations. 
 
 My approach is *metadata-driven*: data is exchanged via 'metadata packets,' which I call *Offerings*. 
 
