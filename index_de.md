@@ -4,11 +4,11 @@ layout: default
 
 <p style="text-align:right;"> <a href="index"> 🇬🇧 </a></p>
 
-Nasr ist mein Name. Ich habe mehr als zehn Jahre Erfahrung im Bereich Technologie und digitale Medien. Hier ist mein [Lebenslauf](assets/pdf/kasrin_resume_2023_04.pdf) und [Erfahrungsmatrix](matrix) (Beide auf Englisch).
+Nasr ist mein Name. Ich habe mehr als zehn Jahre Erfahrung im Bereich Technologie und digitale Medien. 
 
+Hier ist mein [Lebenslauf](assets/pdf/kasrin_resume_2023_04.pdf) (Englisch). Sie können sich auch meine [Erfahrungsmatrix](matrix) (Englisch) ansehen: eine Übersicht über die verschiedenen Bereiche, in denen ich gearbeitet habe, sowie die Rollen und Denkweisen, die ich dabei eingenommen habe.
 
 Ich habe meine Dissertation im Februar 2023 an der Fakultät Wirtschaftsinformatik & Angewandte Informatik der Universität Bamberg, erfolgreich verteidigt.
-
  
 Meine Stärken liegen an der Schnittstelle von Produktdesign und -entwicklung, Forschung und Entwicklung, Architektur und Unternehmensstrategie.
 
