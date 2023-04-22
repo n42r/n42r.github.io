@@ -6,14 +6,14 @@ layout: default
 
 Nasr ist mein Name. Ich habe mehr als zehn Jahre Erfahrung im Bereich Technologie und digitale Medien. Meine Stärken liegen an der Schnittstelle von Produktdesign und -entwicklung, Forschung und Entwicklung, Architektur und Unternehmensstrategie.
 
-Wenn Sie nach meinem Lebenslauf suchen [hier ist er](assets/pdf/kasrin_resume_2023_04.pdf) (Englisch). Alternativ können Sie auch einen Blick auf meine "[Hintergrundmatrix](matrix)" werfen, die eine Tabelle mit Themen, Rollen und Denkweisen enthält, in denen ich Erfahrung habe.
+Wenn Sie nach meinem Lebenslauf suchen [hier ist er](https://raw.githubusercontent.com/n42r/n42r.github.io/main/assets/pdf/kasrin_resume_2023_04.pdf) (Englisch). Alternativ können Sie auch einen Blick auf meine "[Hintergrundmatrix](https://raw.githubusercontent.com/n42r/n42r.github.io/main/matrix)" werfen, die eine Tabelle mit Themen, Rollen und Denkweisen enthält, in denen ich Erfahrung habe.
 
 Vor kurzem habe ich meine Dissertation an der Fakultät Wirtschaftsinformatik & Angewandte Informatik der Universität Bamberg, erfolgreich verteidigt.
 
-In den letzten Jahren habe ich mich mit der Entwicklung einer Datenarchitektur für die gemeinsame Nutzung und den Austausch von Daten zwischen verschiedenen Organisationen befasst (eine Mischung aus Data Lake und Data Mesh, aber für mehr als eine Organisation). Einen Überblick über meine Doktorarbeit finden Sie auf [dieser Seite](phd) (Englisch).
+In den letzten Jahren habe ich mich mit der Entwicklung einer Datenarchitektur für die gemeinsame Nutzung und den Austausch von Daten zwischen verschiedenen Organisationen befasst (eine Mischung aus Data Lake und Data Mesh, aber für mehr als eine Organisation). Einen Überblick über meine Doktorarbeit finden Sie auf [dieser Seite](https://raw.githubusercontent.com/n42r/n42r.github.io/main/phd) (Englisch).
 
 
-Davor habe ich in einem mittelgroßen Unternehmen, das Apps und Spiele für soziale Medien entwickelt, an Produktdesign und -entwicklung gearbeitet. Außerdem habe ich im Bereich der logikbasierten KI (nicht des maschinellen Lernens) an der Entwicklung von Computerspielen für Brettspiele gearbeitet und akademische Forschung im Bereich der kognitiven Robotik betrieben. Ich habe auch Lehr- und Führungsaufgaben an Universitäten übernommen. Hier finden Sie ein [Portfolio](assets/pdf/kasrin_protfolio_upgraded_23.pdf) (Englisch) von Projekten, an denen ich der Zeit zwischen 2005 und 2013, vor meiner Doktorarbeit, beteiligt war.
+Davor habe ich in einem mittelgroßen Unternehmen, das Apps und Spiele für soziale Medien entwickelt, an Produktdesign und -entwicklung gearbeitet. Außerdem habe ich im Bereich der logikbasierten KI (nicht des maschinellen Lernens) an der Entwicklung von Computerspielen für Brettspiele gearbeitet und akademische Forschung im Bereich der kognitiven Robotik betrieben. Ich habe auch Lehr- und Führungsaufgaben an Universitäten übernommen. Hier finden Sie ein [Portfolio](https://raw.githubusercontent.com/n42r/n42r.github.io/main/assets/pdf/kasrin_protfolio_upgraded_23.pdf) (Englisch) von Projekten, an denen ich der Zeit zwischen 2005 und 2013, vor meiner Doktorarbeit, beteiligt war.
 
 
 Ich gehöre zu den Weltbürgern, die ihr Leben in mehreren Ländern verbracht und verschiedene Kulturen verinnerlicht haben. Ich gehe intuitiv an meine Arbeit und mein Leben heran.
