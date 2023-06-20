@@ -1,19 +1,12 @@
 ---
 layout: default
 ---
-<p style="text-align:right;"> <a href="index_de"> 🇩🇪 </a></p>
 
-Nasr is the name. I have 10+ years of experience in technology and digital media. My strengths lie at the intersection of product design & development, R&D, architecture, and business strategy.
 
-If you're looking for my resume [here it is](https://raw.githubusercontent.com/n42r/n42r.github.io/main/assets/pdf/kasrin_resume_2023_04.pdf). Alternatively, you can have a look at my "[background matrix](https://n42r.github.io/matrix)," which is a table of subjects, roles, and mindsets I have experience in.
+With over a decade of experience and recently a PhD, I am fortunate to have had a diverse career covering technical, product-driven, and leadership roles, across several industries and geographic locations (See the attached [résumé](https://raw.githubusercontent.com/n42r/n42r.github.io/main/assets/pdf/kasrin_resume_2023_04.pdf)).
 
-Just recently, I defended my Ph.D. at the Faculty of Information Systems & Applied Computer Sciences, University of Bamberg, Germany.
 
-In the past couple of years, my energy has been dedicated to developing a *data architecture* for inter-organizational data sharing and exchange (something between a *data lake* and a *data mesh* but for more than one organization). See [this page](https://n42r.github.io/phd) for an overview of my doctoral work.
+I started as a software developer and transitioned to R&D in (symbolic) Artificial Intelligence and game development. A couple of years and projects later, I shifted to product design & development and software architecture in a small-to-medium sized organization that developed mobile and social media apps. After a (interesting) detour as a lecturer with managerial duties in a war-torn zone, my focus in the last several years has been on developing data management *architectures* during an EU manufacturing project that involved companies such a Airbus, an experience which culminated in my doctoral work (successfully defended in February 2023 at the University of Bamberg, Germany). See the attached [portfolio](https://raw.githubusercontent.com/n42r/n42r.github.io/main/assets/pdf/kasrin_protfolio_upgraded_23.pdf) for projects I was involved in *before* my doctoral work, and see my PhD [abstract](https://n42r.github.io/phd) for an overview of my doctoral work.
 
-Before that, I worked on product design and development in a small to medium size company that develops social media apps and games. I also worked in logic-based AI (not machine learning) in developing computer players for board games, as well as doing academic research in cognitive robotics. I have also taken teaching and managerial roles in universities. Here's a [portfolio](https://raw.githubusercontent.com/n42r/n42r.github.io/main/assets/pdf/kasrin_protfolio_upgraded_23.pdf) of projects I was involved in before my doctoral work (2005-2013).
-
-I am one of those world-citizen types who spent their lives in multiple countries and internalized various cultures. I'm intuitively driven in how I approach both work and life.
-
-Open for consulting work and looking to find a work environment where I fit in nicely.
+My teaching experience honed my ability to communicate complex ideas clearly, and improved by public speaking skills, while my other experiences have given me the ability to understand and coordinate across stakeholders (such as when I once was the key link between technical, strategic business, and marketing teams), and my self-drive and leadership have led me to being promoted to report to the highest executive in two of the past organizations I worked in.
 
