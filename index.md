@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-With over a decade of experience and recently a PhD, I am fortunate to have had a diverse career covering technical, R&D, product-driven, and leadership roles (see [résumé](https://raw.githubusercontent.com/n42r/n42r.github.io/main/assets/pdf/kasrin-resume-(short).pdf)).
+With over a decade of experience and recently a PhD, I am fortunate to have had a diverse career covering technical, R&D, product-driven, and leadership roles (see [résumé](https://raw.githubusercontent.com/n42r/n42r.github.io/main/assets/pdf/kasrin-resume.pdf)).
 
 I started as a software developer but transitioned to research and development where I built specialized parts of bigger products (such as a computer players for games) as well as explored business/technology strategy (upcoming technologies or standards). During this time I slowly gravitated to product development where I became the key link coordinating products across technical, strategic business, and marketing teams in a small-to-medium sized organization. For an overview of projects I involved in, please check my [project portfolio](https://raw.githubusercontent.com/n42r/n42r.github.io/main/assets/pdf/kasrin_protfolio_upgraded_23.pdf).
 
