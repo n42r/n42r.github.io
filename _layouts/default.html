@@ -32,18 +32,18 @@
 			<h3>{{site.roles}}</h3>
         {% endif %}
 
-        {% if site.email %}		
-			<img src="assets/img/email-20.png"/>: <a href="mailto:{{site.email}}">{{site.email}}</a> <br/>
-        {% endif %}
-		
-        {% if site.linkedin %}
-			<img src="assets/img/ln-20-4.png"/>: <a href="https://www.linkedin.com/in/{{site.linkedin}}">{{site.linkedin}} </a> <br/>
-        {% endif %}		
-		
 		{% if site.resume_url %}		
 			<a href="{{site.resume_url}}"> R&eacute;sum&eacute; </a> <br/>
         {% endif %}
 
+        {% if site.linkedin %}
+			<img src="assets/img/ln-20-4.png"/>: <a href="https://www.linkedin.com/in/{{site.linkedin}}"> LinkedIn </a> <br/>
+        {% endif %}		
+
+        {% if site.email %}		
+			<img src="assets/img/email-20.png"/>: <a href="mailto:{{site.email}}">Email</a> <br/>
+        {% endif %}
+		
 		{% if site.portfolio_url %}		
 			<a href="{{site.portfolio_url}}"> Project Portfolio </a> <br/>
         {% endif %}
