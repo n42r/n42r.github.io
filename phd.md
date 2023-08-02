@@ -1,7 +1,7 @@
 ---
 layout: plain
 ---
-# PhD Project Overview
+# The Basin Network Model (Overview)
 
 How can we facilitate the exchange of datasets and other data assets across heterogeneous technical and social environments? This is a classical problem that is more relevant today than ever before, relevant both on a global scale (ex., the exchange of COVID-19 data) and the scale of organizations (horizontal and vertical integration). However, we need to distinguish between two notions of data sharing and exchange: one refers to the integration, federation, and transformation of data at the schema level, and the other, our focus here, refers to the description, publication, discovery, and re-use of data \emph{as an asset} (similar to how a book is managed in a library).
 
