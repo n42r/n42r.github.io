@@ -2,7 +2,7 @@
 ---
 layout: redirect
 sitemap: false
-permalink: /oldlocation/
+permalink: .
 redirect_to: https://raw.githubusercontent.com/n42r/n42r.github.io/main/assets/pdf/kasrin-greetings-studio+grading.pdf
 ---
 
