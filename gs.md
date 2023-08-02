@@ -12,9 +12,10 @@ An iOS App for creating and sharing e-cards and visual sentiments [TayalT, Egypt
 - Led the technical team
 - Developed the architecture
 
+## Achievements
+- App rating on the Apple Store improved to 4 starts with many high user engagement and reviews.
+
+
 <h1>
   <img src="assets/img/gs.jpeg" class="img-fluid" alt="" />
 </h1>
-
-## Achievements
-- App rating on the Apple Store improved to 4 starts with many high user engagement and reviews.
