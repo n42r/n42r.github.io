@@ -2,10 +2,12 @@
 layout: default
 ---
 
-I find great fulfillment in conceptualizing, strategizing, and guiding the development of innovative technical products. Over the past half-decade, my focus has been on data architecture, proposing a kind of a 'next-gen' of the likes of data mesh, data space, data lake. However, my experience isn't confined to technical R&D products alone; I've also managed products with a user-centric approach, particularly in the B2C realm.
 
-Throughout my journey, I've had the privilege of contributing to impactful projects spanning diverse domains. I've had the opportunity to oversee the creation of a social media application centered around personalized card-making, create AI players for games, and play a meaningful role in forming a team for the international RoboCup AI soccer robotics competition.
 
-In recent years, I have led the development of a data management software suite for a European Union computer-aided manufacturing project, involving the likes of Airbus. My responsibilities encompassed the entire product lifecycle, from designing a cohesive data architecture—encompassing interfaces and data formats—to hands-on oversight during implementation. These experiences culminated in the pursuit of [my PhD](https://n42r.github.io/phd), in which I introduced a novel data cataloging architectural pattern.
+Shortly after completing starting my career in computer science, I started realizing that software and technology have become so complex and multi-disciplinary that we need new approaches to tackle them. Since then, my focus has been to develop myself to someone who can connect the dots and combine things holistically. Let me give you an example.
 
-My background and skill set comprise a blend of technical proficiency, research aptitude, and leadership traits. With the privilege of working across three continents, I've gained valuable insights into effective communication, collaboration, and success within diverse, multicultural environments.
+In my recently completed PhD, I was fascinated with the problem of the sharing and exchanging data sets between companies and groups. So, what I ended up doing is combining (1) my experience in building data managements solutions, (2) my academic background in knowledge representation and reasoning, and (3) the insights I have gained designing software architectures for mobile apps and games, to build an altogether unique solution to the problem. What I built is perhaps best described as an architectural pattern for inter-organizational data cataloguing and exchange that is information-cantered, I called it the [Basin Network](https://n42r.github.io/phd).
+
+I don't only do that in my work, but also in my personal hobbies such as building sound systems which requires both attention to detail as well as a holistic view, mixing art and a science, making it the ultimate engineering design exercise in my opinion, but let's not get carried away with this subject.
+
+Personally, I have lived and worked in three countries, including for a short time a war situation (in Yemen in 2015), so you can say I'm multicultural, adaptable, and highly resilient.
