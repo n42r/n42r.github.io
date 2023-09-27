@@ -2,10 +2,18 @@
 layout: default
 ---
 
-My professional vision is that software and technology have become so complex and multi-disciplinary that we need new approaches to tackle them. That's why, my focus has always been to develop myself to someone who can connect the dots and combine things holistically.
+My vision is that software and technology have become so complex and multi-disciplinary that we need new approaches to tackle them. My aim has been to develop myself to someone who can combine things holistically and connect the dots.
 
-For example, in my recently completed PhD, I was fascinated with the problem of the sharing and exchanging data sets between companies and groups. So, what I did is combine (1) my experience in building data managements solutions, (2) my academic background in knowledge representation and reasoning, and (3) the insights I have gained designing software architectures for mobile apps and games, to build an altogether unique solution to the problem. What I built is perhaps best described as an *architectural pattern* for inter-organizational data cataloguing and exchange that is information-cantered, I called it the [Basin Network](https://n42r.github.io/phd).
 
-I don't only do this in my work, but also in my personal hobbies such as building sound systems which requires both attention to detail as well as a holistic view, mixing art and science, making it a fascinating exercise in engineering design.
 
-Personally, I have lived and worked in three continents, including for a short time in a war situation (in Yemen in 2015). My background has developed me into a multicultural, adaptable, and highly resilient person.
+For example, in my doctoral work, I was fascinated with the problem of the sharing and exchanging data sets between companies. I combined (1) my experience in data management, (2) my background in knowledge representation and reasoning, and (3) the insights I gained designing software architectures for mobile apps, to propose an *architectural pattern* for inter-organizational data cataloguing and exchange (see https://n42r.github.io/phd). I don't only do this in my work, but also in my personal hobbies such as building sound systems, a fascinating exercise in engineering design that requires attention to detail as well as a wide view, mixing art and science.
+
+My holistic approach is not only technical, I have excelled in managing and aligning cross-functional teams under a common goal.
+
+
+
+Personally, I have lived and worked in three continents, including for a short time in a war situation (Yemen, 2015). My background has developed me into a multicultural, adaptable, and highly resilient person. 
+
+
+
+If I had to describe my professional profile in one sentence I would say: product manager with an R&D edge and expertise in data architecture, robotics and mobile apps.
