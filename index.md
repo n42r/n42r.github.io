@@ -8,6 +8,6 @@ For example, in my doctoral work, I was fascinated with the problem of the shari
 
 My holistic approach is not only technical, I have excelled in the past in aligning and coordinating cross-functional teams under a common goal.
 
-Personally, I have lived and worked in three continents, including for a short time in a war situation (Yemen, 2015). My background has developed me into a multicultural, adaptable, and highly resilient person. 
+Personally, I have lived and worked in three continents, including for a short time in a war situation (Yemen, 2015). My background has developed me into a multicultural, adaptable, and resilient person. 
 
-If I had to describe my professional profile, I would say: product manager with an R&D edge and expertise in data architecture, robotics and mobile apps.
+If I had to give a tagline about my self I would say: enthusiastic generalist who started out as a programmer and moved to the intersection of product management, R&D, and technical.
