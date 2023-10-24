@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Software and technology have become so complex that we need new approaches to tackle them. That's why I have built myself as someone who can combine things holistically and connect the dots. This has resulted in me developing a combination of skills that straddle the maker/manager divide. I'm a maker as in engineering design, R&D innovation, and software architecture, and a manager as in product, people, and cross-functional leadership. 
+Software and technology have become so complex that we need new approaches to tackle them. That's why I have developed myself into someone who can combine things holistically and connect the dots. I have a combination of strengths that straddle the maker/manager divide. I'm a maker as in engineering design, R&D innovation, and software architecture, and a manager as in product, people, and cross-functional leadership. 
 
 I started out in game development (Crystal Space, anyone?) and robotics/logic-based AI and then moved to the intersection of R&D and product management/design: first in mobile app development and then in data management. In my recently completed PhD, I proposed an [architectural pattern](https://n42r.github.io/phd) for inter-organizational data cataloguing and exchange (similar to data mesh and data space).
 
