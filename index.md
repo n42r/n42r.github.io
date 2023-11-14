@@ -9,4 +9,4 @@ I started out in game development (Crystal Space, anyone?) and robotics/AI and t
 I excel at the leadership of innovative technical products with an R&D edge and in communicating across and aligning cross-functional stakeholders. Having lived and worked in three continents has led me to become multicultural, adaptable, and more resilient. Personally, I'm an enthusiastic person when it comes to projects that interest me. 
 
 
-P.S.: If you have a minute or two and would like to see something different, have a look at my [experience matrix](matrix) for a different kind of biography.
+P.S.: If you have a minute or two and would like to see something different, you can have a look at my [skills matrix](matrix) for a unique kind of overview.
