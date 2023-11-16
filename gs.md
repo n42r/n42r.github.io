@@ -2,14 +2,14 @@
 layout: plain
 ---
 
-# Greetings Studio (2011 - 2014)
+# Greetings Studio (2012 - 2014)
 
 An iOS App for creating and sharing e-cards and visual sentiments [TayalT, Egypt].
 
 ## Roles / Duties
 
 - Managed the product
-- Led the technical team
+- Served as the key cross-functional link between technical, business/marketing, UI/UX teams.
 - Developed the architecture
 
 ## Achievements
