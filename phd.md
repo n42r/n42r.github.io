@@ -12,7 +12,7 @@ The challenge with many recent solutions is that they are built as 'platform-fir
 
 This work fills a gap by making a (1) 'medium-level' proposal, (2) in the form of a constructive recommendation, (3) which furthermore incorporates several of the major standards-first recommendations. We propose the *Basin Network*, a distributed data cataloguing architectural pattern. It revolves around two novel abstractions: the Offering, and the Basin. The Offering is a basic data cataloguing unit for some data of interest. The Basin is a system/node to author, catalogue, and manage Offerings and exchange them with other Basins, resulting in a Basin *Network* (akin to a network of data lakes). See figure below for a conceptual overview. 
 
-We demonstrate the applicability of the proposal by applying it to three use-cases: (1) a computer-aided manufacturing project, (2) an IoT project in smart agriculture, and in (3) crowd data management.
+We demonstrate the applicability of the proposal by applying it to three use-cases: (1) a computer-aided manufacturing project, (2) an IoT project in smart agriculture, and in (3) crowd data management. For more details, the full PhD thesis has been published online [here](https://fis.uni-bamberg.de/handle/uniba/91269).
 
 
 <h1>
