@@ -12,7 +12,7 @@ I was involved in a Eropean Union Horizon 2020 manufacturing project ([SIMUTOOL]
 
 Prior to that, in a small- to medium-sized B2C company, I served as a software architect, team leader, and R&D engineer where I successfully led multiple products, aligning cross-functional teams (technical, user-experience, marketing, strategy) and leading to improved user ratings and app rankings.
 
-I just completed a PhD where I invented a novel [architectural model](phd) for inter-organizational data cataloguing (Cf. data mesh, data space). This work was based on the 4 year long experiences and insights gained during the SIMUTOOL project, but also in a way all the past experiences in my (professional) life.
+I just completed a PhD where I invented a novel [architectural model](phd) for inter-organizational data cataloguing (Cf. data mesh, data space). This work was based on the 4 year long experiences and insights gained during the SIMUTOOL project, but also in a way all the past experiences of my professional life.
 
 Working and living in three continents has led me to develop intercultural fluency, resilience, and high adaptability.
 
