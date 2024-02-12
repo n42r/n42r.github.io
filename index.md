@@ -4,7 +4,7 @@ layout: default
 
 Hi 👋
 
-My name is Nasr. I'm a versatile software architect and product thinker with a critical eye and open mind. I shine on the intersection of engineering and product/people/cross-functional leadership.
+My name is Nasr. I'm a dynamic software architect and product thinker with a critical eye and open mind. I shine on the intersection of engineering and product/people/cross-functional leadership.
 
 I led successful projects in various domains (data management, social networks, mobile apps & games, robotics & AI) and team sizes (2-10 persons): from innovative B2C settings to projects with millions in public funding.
 
