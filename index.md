@@ -14,6 +14,4 @@ Prior to that, in a small- to medium-sized B2C company, I served as a software a
 
 I just completed a PhD where I invented a novel [architectural model](phd) for inter-organizational data cataloguing (Cf. data mesh, data space). This work was based on the 4 year long experiences and insights gained during the SIMUTOOL project, but also in a way all the past experiences of my professional life.
 
-Working and living in three continents has led me to develop intercultural fluency, resilience, and high adaptability.
-
-
+Working and living in three continents has led me to develop intercultural fluency, resilience, and high adaptability. Personally, I'm laid-back with a critical eye and an open-mind, an avid reader, music history buff, and an aspiring yogi.
