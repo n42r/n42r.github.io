@@ -11,7 +11,7 @@ My expertise lies at the intersection of engineering and product leadership, whe
 - Leading the development of a data lake SaaS ([SIMUTOOL Data Lake](https://github.com/simutool)) for a [consortium](https://www.uni-bamberg.de/en/mobi/research/simutool/) of 8 manufacturing companies, cutting turnover time by 30% through streamlining data-driven cooperation.
 - Inventing a novel architectural pattern for data cataloging ([The Basin Network](phd)), resulting in two published papers and an award of a PhD with distinction.
 - Elevating app ratings from 3 to 4.5/5 stars for a mobile game app ([Tawla](tw)) by implementing advanced AI players, enhancing gameplay dynamics.
-- Directing the development of (Greetings Studio)[gs], a social network and mobile app facilitating E-greeting card creation and sharing, resulting in a 10-fold growth in users and optimized user engagement.
+- Directing the development of ([Greetings Studio](gs)), a social network and mobile app facilitating E-greeting card creation and sharing, resulting in a 10-fold growth in users and optimized user engagement.
 	
 In my previous roles, such as Research Associate at the University of Bamberg and Team Leader at TayaIT, I've honed my skills in empathetic leadership, agile project management, and cross-functional collaboration.
 
