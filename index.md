@@ -22,7 +22,7 @@ Outside of work, I'm passionate about fostering innovation and mentorship. I co-
 Personally, I'm laid-back with a critical eye and an open-mind, an avid reader, music history buff, and an aspiring yogi.
 
 My key strengths are:
-- Thinking (Strategic, Critical, Conceptual, Creative)
-- Emotional (Enthusiastic, Resilient)
-- Execution (Initiative, Decisive)
-- Relational (Empathic, Collaborative, Leadership)
+- Thinking (Strategic, Critical, Creative, Conceptual)
+- Emotional (Enthusiasm, Resilience, Common sense-driven)
+- Execution (Initiative, Decisiveness, Flexibility)
+- Relational (Empathy, Collaboration, Leading)
