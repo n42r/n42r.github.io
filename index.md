@@ -23,6 +23,6 @@ Personally, I'm laid-back with a critical eye and an open-mind, an avid reader, 
 
 My key strengths are:
 - Thinking (Strategic, Critical, Creative, Conceptual)
-- Emotional (Enthusiasm, Resilience, Common sense-driven)
+- Emotional (Enthusiasm, Resilience, Common sense)
 - Execution (Initiative, Decisiveness, Flexibility)
 - Relational (Empathy, Collaboration, Leading)
