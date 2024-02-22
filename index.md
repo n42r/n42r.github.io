@@ -4,7 +4,9 @@ layout: default
 
 Hi 👋
 
-My name is Nasr. As a dynamic software architect and product strategist, I specialize in guiding successful projects across various domains, including data architecture, social networks, mobile apps, games, robotics, and AI. With a history of leading teams ranging from 2 to 10 members, I've navigated diverse settings, from agile B2C environments to R&D projects backed by €3.5 million in public funding.
+My name is Nasr.
+
+As a dynamic software architect and product strategist, I specialize in guiding successful projects across various domains, including data architecture, social networks, mobile apps, games, robotics, and AI. With a history of leading teams ranging from 2 to 10 members, I've navigated diverse settings, from agile B2C environments to R&D projects backed by €3.5 million in public funding.
 
 My expertise lies at the intersection of engineering and product leadership, where I excel in delivering cutting-edge solutions that drive business growth and enhance user experiences. Some notable accomplishments include:
 
