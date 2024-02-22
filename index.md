@@ -8,8 +8,8 @@ My name is Nasr.
 
 As a dynamic software architect and product strategist, I specialize in guiding successful projects across various domains, including data architecture, social networks, mobile apps, games, robotics, and AI. With a history of leading teams ranging from 2 to 10 members, I've navigated diverse settings, from agile B2C environments to R&D projects backed by €3.5 million in public funding.
 
-I combine two complimentary strength clusters (which can make it hard to profile my personality):
-- I'm a strategic, conceptual, and critical thinker with a no-nonsense approach, a decisive decision maker under uncertainty and an initiative-taking leader.
+I combine two different strength clusters (which can make it hard to profile my personality):
+- I'm a strategic, conceptual, and critical thinker with a no-nonsense approach; a decisive decision maker under uncertainty and an initiative-taking leader.
 - I'm also an enthusiastic, empathetic, flexible, laid-back, and resilient person; a team player and a creative/lateral thinker with a healthy dose of intuition.
 
 My expertise lies at the intersection of engineering and product leadership, where I excel in delivering cutting-edge solutions that drive business growth and enhance user experiences. Some notable accomplishments include:
