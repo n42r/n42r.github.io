@@ -21,10 +21,8 @@ I'm comfortable at working with distributed architectures, modular monoliths, an
 
 Outside of work, I'm passionate about fostering innovation and mentorship. I co-founded projects like ArtSapiens that developed AI/robotics software which qualified to compete in International RoboCup Competition league, and in recent years have developed open-source music tools in my free time.
 
-Personally, I'm laid-back with a critical eye and an open-mind, an avid reader, music history buff, and an aspiring yogi.
+I combine two complimentary strength clusters (which can make it hard to profile my personality):
+- I'm a strategic, conceptual, and critical thinker, a decisive decision maker under uncertainty and an initiative-taking leader with a no-nonsense approach.
+- I'm also an enthusiastic, empathetic, flexible, laid-back, and resilient person; a team player, and a creative/lateral thinker with a healthy dose of intuition.
 
-My key strengths are:
-- Thinking (Strategic, Critical, Creative, Conceptual)
-- Emotional (Enthusiasm, Resilience, Common sense)
-- Execution (Initiative, Decisiveness, Flexibility)
-- Relational (Empathy, Collaboration, Leading)
+In my free time, I'm an avid reader, music history buff, and an aspiring yogi.
