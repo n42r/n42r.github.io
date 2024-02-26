@@ -18,9 +18,9 @@ At the intersection of engineering and product leadership, I excel in delivering
 In my free time, I'm an avid reader (non-fiction), music history buff, and an aspiring yogi.
 
 
-# Professional Bio
+## Professional Bio
 
-My journey into engineering began with inspiration from my father's footsteps, but it's the fusion of my mother's artistic sensibility and dedication to excellence that truly defines my approach, shaping both my hobbies and career pursuits. A glance at my hobbies reveals this unique blend—from tinkering with automobiles in high school to crafting intricate arabesque designs and, most recently, constructing sound systems. This fusion of calculation and intuition has propelled me through a career marked by unexpected achievements, driven by a vision that defies conventional labels.
+My journey into engineering began with inspiration from my father's footsteps, but it's the fusion of my mother's artistic sensibility and dedication to excellence that truly defines my approach, shaping both my hobbies and career pursuits. A glance at my hobbies reveals this unique blend—from tinkering with automobiles in high school, to crafting intricate arabesque designs, writing poetry and, most recently, constructing sound systems. This fusion of calculation and intuition has propelled me through a career marked by unexpected achievements, driven by a vision that defies conventional labels.
 
 
 Transitioning from electrical engineering to computer science, I discovered a natural affinity for programming. Within just two introductory programming courses, a colleague and I developed a 20,000-line Othello game project (Java/Java3D), soaring to the top ranks in a faculty-wide competition of over 500 students. This success led to a lecture opportunity at the age of 19, inspiring future students to embrace innovative technologies. As my undergraduate years progressed, I engaged in diverse projects—from involvement in an 8-person team to build a maze-navigating robot toy car showcased at the annual university science fair, to writing term papers tackling complex technical-philosophical subjects with meticulous attention to detail.
