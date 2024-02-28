@@ -15,7 +15,6 @@ At the intersection of engineering and product leadership, I excel in delivering
 - Playing a key role in two B2C software products: a mobile game ([Tawla](tw)) whose ratings I helped elevate from 3 to 4.5/5 stars and a social network ([Greetings Studio](gs)) of which I drove its product strategy through a 10-fold growth in user base.
 - Building new methods ([1](https://link.springer.com/chapter/10.1007/978-3-642-16111-7_14) [2](https://ebooks.iospress.nl/volumearticle/6006)) to make robots smarter, as well as Artificial Intelligence players for games.
 - Collaborating on an early-stage business venture (intelligent recipe service) with millions in potential users, and developed an open-source music management tool.
-- Publishing research papers in diverse subjects such as data management, AI, and robotics.
 
 In my previous roles, such as Research Associate at the University of Bamberg and Team Leader at TayaIT, I've honed my skills in developing innovative technologies, empathetic agile leadership, and cross-functional collaboration. I'm comfortable at working with distributed architectures, modular monoliths (clean/hexagonal architecture), and HTTP API interfaces. My technical proficiencies include Python, Flask, WSGI, Linux CLI, Docker, MongoDB, Neo4j, MySQL, Google Firebase Cloud, and RDF/Semantic Data. And formerly Java, C++, and LISP.
 
