@@ -16,8 +16,11 @@ At the intersection of engineering and product leadership, I excel in delivering
 - Building new methods ([[1]](https://link.springer.com/chapter/10.1007/978-3-642-16111-7_14), [[2]](https://ebooks.iospress.nl/volumearticle/6006)) to make robots smarter, as well as developing Artificial Intelligence players for games.
 - Collaborating on an early-stage business venture (intelligent recipe service) with millions in potential users, and developed an open-source music management tool.
 
-In my previous roles, such as Research Associate at the University of Bamberg and Team Leader at TayaIT, I've honed my skills in developing innovative technologies, empathetic agile leadership, and cross-functional collaboration. I'm comfortable at working with distributed architectures, modular monoliths (clean/hexagonal architecture), and HTTP API interfaces. My technical proficiencies include Python, Flask, WSGI, Linux CLI, Docker, MongoDB, Neo4j, MySQL, Google Firebase Cloud, and RDF/Semantic Data. And formerly Java, C++, and LISP.
+In my previous roles, such as Research Associate at the University of Bamberg and Team Leader at TayaIT, I've honed my skills in developing innovative technologies, empathetic agile leadership, and cross-functional collaboration. I'm experienced at designing cloud-native system architectures (stateless nodes, docker containers, HTTP API interfaces). My technical proficiencies include Python, Flask, WSGI, Linux CLI, Docker, MongoDB, Neo4j, MySQL, Google Firebase Cloud, and RDF/Semantic Data. And formerly Java, C++, and LISP.
 
 I possess two distinct strength clusters: I am a strategic and critical thinker with a decisive, no-nonsense approach, adept at making decisions under uncertainty and leading initiatives. I am also an enthusiastic, empathetic team player known for flexibility, resilience, and creative thinking.
 
 In my free time I'm an avid reader (non-fiction), music history buff, and an aspiring yogi.
+
+
+
