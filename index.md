@@ -20,7 +20,7 @@ In my previous roles, such as Research Associate at the University of Bamberg an
 
 I'm experienced at designing cloud-native system architectures (stateless nodes, docker containers, HTTP API interfaces). My technical proficiencies include Python, Flask, WSGI, Linux CLI, Docker, MongoDB, Neo4j, MySQL, Google Firebase Cloud, and RDF/Semantic Data.
 
-I am a strategic and critical thinker with a 'no-nonsense' approach, adept at making decisions under uncertainty and leading initiatives. I am also an enthusiastic, empathetic team player known for flexibility, resilience, and creative thinking.
+A strategic and critical thinker with a 'no-nonsense' approach and an eye at recognizing patterns, I'm adept at making decisions under uncertainty and leading initiatives. I revel in being part of teams that are larger than the sum of their parts. To others I'm known as an enthusiastic person who is flexible, resilient, and brings an original perspective to the table.
 
 In my free time I'm an avid reader, music history buff, and an aspiring yogi.
 
