@@ -14,7 +14,7 @@ At the intersection of engineering and product leadership, I excel in delivering
 - Inventing a new approach for data cataloging & exchange ([The Basin Network](phd)), resulting in an award of [a PhD](https://fis.uni-bamberg.de/entities/publication/d28b1f7d-1c85-4214-a80f-69ab40d08b60) with distinction and publications ([[1]](https://link.springer.com/article/10.1007/s42486-020-00054-y) [[2]](https://link.springer.com/article/10.1007/s13222-018-0274-0)).
 - Playing a key role in two B2C software products: a mobile game ([Tawla](tw)) whose ratings I helped elevate from 3 to 4.5/5 stars and a social network ([Greetings Studio](gs)) of which I drove its vision through a 10-fold growth in user base.
 - Building new methods to make robots smarter ([[1]](https://link.springer.com/chapter/10.1007/978-3-642-16111-7_14) [[2]](https://ebooks.iospress.nl/volumearticle/6006)), as well as developing Artificial Intelligence players for games.
-- Collaborating on an early-stage business venture (intelligent recipe service) with millions in potential users, and developing an open-source music management tool.
+- Collaborating on an early-stage business venture (intelligent recipe service) with millions in potential users, and developing an open-source music management tool ([Guestrrday](https://github.com/n42r/guestrrday/)).
 
 In my previous roles, such as Research Associate at the University of Bamberg and Team Leader at TayaIT, I've honed my skills in developing innovative technologies, empathetic agile leadership, and cross-functional collaboration. 
 
