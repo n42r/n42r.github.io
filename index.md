@@ -19,6 +19,6 @@ At the intersection of engineering innovation and product leadership, I excel in
 - Developing Artificial Intelligence players for games and publishing methods to make robots smarter ([[1]](https://link.springer.com/chapter/10.1007/978-3-642-16111-7_14) [[2]](https://ebooks.iospress.nl/volumearticle/6006)).
 
 
-I’m experienced with cloud-native system architectures (stateless nodes, ...). My technical proficiencies include Python, Linux CLI, Docker, MongoDB, Neo4j, MySQL, and Google Firebase Cloud.
+I’m experienced with cloud-native system architectures (stateless nodes, scaling ...). My technical proficiencies include Python, Linux CLI, Docker, MongoDB, Neo4j, MySQL, and Google Firebase Cloud.
 
 To others I’m known as an enthusiastic person who is flexible, resilient, and brings an original perspective to the table. In my free time I’m an avid reader, music collector, and an aspiring yogi.
