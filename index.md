@@ -8,7 +8,7 @@ My name is Nasr.
 
 Throughout my 15+ years in technology innovation, I have led and executed successful initiatives across AI, data architecture, e‑commerce, robotics, and mobile applications. My experience spans start-ups, global corporate headquarters, and multi‑million Euro publicly funded R&D projects. 
 
-As Lead Solutions Architect at PUMA Global E‑Commerce Engineering, I drive organizational strategy and cross-team collaboration. I founded the "Tech Cats of eComm" to advance architectural strategy, innovation, and technical excellence.
+As Lead Solutions Architect at PUMA Global E‑Commerce Engineering, I drive organizational strategy and cross-	team collaboration. I founded the "Tech Cats of eComm" to advance architectural strategy, innovation, and technical excellence.
 
 At the intersection of engineering innovation and product leadership, I excel in delivering state-of-the-art solutions that drive business growth and elevate user experiences. Some noteworthy achievements include:
 
