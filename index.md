@@ -6,12 +6,18 @@ Hi 👋
 
 My name is Nasr.
 
-I am a technology leader with 15+ years of experience in AI, data architecture, and large-scale e-commerce systems. My career spans startups, global enterprises, and multi-million Euro R&D initiatives, where I have built high-impact solutions and led cross-functional teams.
+Throughout my 15+ years in technology innovation, I have led and executed successful initiatives across AI, data architecture, e‑commerce, robotics, and mobile applications. My experience spans start-ups, global corporate headquarters, and multi‑million Euro publicly funded R&D projects. 
 
-Currently, I serve as Lead Solutions Architect at PUMA Global E-Commerce Engineering, focusing on organizational strategy and cross-team collaboration. I founded Technical Cats of E-Commerce, an initiative driving architectural innovation and technical excellence across teams.
+As Lead Solutions Architect at PUMA Global E‑Commerce Engineering, I drive organizational strategy and cross-team collaboration. I founded the "Tech Cats of eComm" to advance architectural strategy, innovation, and technical excellence.
 
-My expertise lies in AI-driven applications, next-gen data architectures, and solving complex technical challenges. I thrive in high-ambiguity environments, balancing rapid experimentation with disciplined execution to turn vision into business impact.
+At the intersection of engineering innovation and product leadership, I excel in delivering state-of-the-art solutions that drive business growth and elevate user experiences. Some noteworthy achievements include:
 
-Beyond my corporate role, I have pioneered AI and data-driven projects like MuzeAI, an LLM-powered music recommendation prototype, and The Basin Network, a next-gen data architecture for ML teams. My approach blends deep technical knowledge with strategic leadership to create scalable, future-proof solutions.
+- [The Basin Network](phd): Invented a next-generation (post-data mesh) data architecture for data teams to share and remix data across enterprises, earning a PhD and two publications.
 
-To others I’m known as an enthusiastic person who is flexible, resilient, and innovative. In my free time I’m a music collector/producer, jogger, and an aspiring yogi.
+- [SIMUTOOL Data Management SaaS](https://github.com/simutool): Led a four-year initiative to build a SaaS that optimized operational efficiency by 30% for a €3.5M EU-funded aerospace manufacturing consortium.
+
+- Playing a key role in two B2C software products: a mobile game ([Tawla](tw)) and a social network app ([Greetings Studio](gs)).
+
+- Developing Artificial Intelligence players for games and publishing papers on making robots smarter in top AI conferences in the world
+
+To others I’m known as an enthusiastic person who is flexible, resilient, and creative. In my free time I’m a music collector/producer, jogger, and an aspiring yogi.
