@@ -15,5 +15,5 @@ Key initiatives include:
 - **[SIMUTOOL Data Management SaaS](https://github.com/simutool)** – Led the development of a SaaS that improved aerospace manufacturing efficiency by 30% (€3.5M EU-funded project).  
 - **B2C Software & AI Innovation** – Developed AI-powered mobile applications, game AI, and research on intelligent robotics published in top AI conferences.  
 
-Known for my **strategic vision, adaptability, and self-driven leadership**, I thrive at the intersection of **technology, innovation, and business impact**. In my free time, I’m a **music collector/producer, jogger, and aspiring yogi**.  
+Known for my **strategic vision, adaptability, and self-driven leadership**, I thrive at the intersection of **technology, innovation, and business impact**.  
 
