@@ -6,21 +6,14 @@ Hi 👋
 
 My name is Nasr.
 
+At the intersection of **organizational strategy and technical leadership**, I build high-performing teams and drive cross-functional collaboration to deliver scalable, **high-impact innovation**.  
 
-At the intersection of organizational strategy and technical leadership, I excel in building high-performing teams and driving cross-functional collaboration to deliver innovative, impactful, and scalable solutions.
+With **15+ years in AI, data architecture, and digital systems**, I have led initiatives across startups, global enterprises, and **multi-million Euro R&D projects**. As **Lead Solutions Architect at PUMA Global E-Commerce Engineering**, I shaped organizational strategy, led cross-team collaboration, and founded **Tech Cats of eComm** to drive innovation and technical excellence.  
 
-Throughout my 15+ years in technology innovation, I have led and executed successful initiatives across AI, data architecture, e‑commerce, robotics, and mobile applications. My experience spans start‑ups, global corporate headquarters, and multi‑million Euro publicly funded R&D projects. 
+Key initiatives include:  
+- **[The Basin Network](phd)** – Invented a next-gen data architecture for AI/ML teams, earning a PhD and two publications.  
+- **[SIMUTOOL Data Management SaaS](https://github.com/simutool)** – Led the development of a SaaS that improved aerospace manufacturing efficiency by 30% (€3.5M EU-funded project).  
+- **B2C Software & AI Innovation** – Developed AI-powered mobile applications, game AI, and research on intelligent robotics published in top AI conferences.  
 
-As Lead Solutions Architect at PUMA Global E-Commerce Engineering, I drive organizational strategy and cross-team collaboration. I founded the "Tech Cats of eComm" to advance architectural strategy, innovation, and technical excellence.
+Known for my **strategic vision, adaptability, and self-driven leadership**, I thrive at the intersection of **technology, innovation, and business impact**. In my free time, I’m a **music collector/producer, jogger, and aspiring yogi**.  
 
-Past initiatives include:
-
-- [The Basin Network](phd): Invented a next-generation (post-data mesh) data architecture for data teams to share and remix data across enterprises, earning a PhD and two publications.
-
-- [SIMUTOOL Data Management SaaS](https://github.com/simutool): Led a four-year initiative to build a SaaS that optimized operational efficiency by 30% for a €3.5M EU-funded aerospace manufacturing consortium.
-
-- Playing a key role in two B2C software products: a mobile game ([Tawla](tw)) and a social network app ([Greetings Studio](gs)).
-
-- Developing Artificial Intelligence players for games and publishing papers on making robots smarter in top AI conferences in the world.
-
-To others I’m known as an enthusiastic person who is flexible, resilient, and self-driven. In my free time I’m a music collector/producer, jogger, and an aspiring yogi.
