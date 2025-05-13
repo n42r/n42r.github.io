@@ -4,7 +4,7 @@ layout: default
 
 Hi 👋, my name is Nasr.
 
-I'm a visionary leader fascinated with building high-impact innovative technologies and the teams that deliver them.
+At the intersection of Data and AI, I'm a visionary leader fascinated with building high-impact innovative technologies and the teams that deliver them.
 
 Currently **Lead Solutions Architect at PUMA**, my 10+ year journey has included stints in startups, global enterprises, and international R&D environments. 
 
@@ -14,7 +14,7 @@ The three key pillars I offer are:
 	- **[SIMUTOOL Data Cataloging SaaS](https://github.com/simutool)**
 	- **[Tawla iOS mobile game](tw)**
 	- **[Greetings Studio mobile App](gs)**
-	- **[Muze AI](https://github.com/n42r/muze-ai)**: hobby AI project, an open-source LLM-powered music recommendation service
+	- **[Muze AI](https://github.com/n42r/muze-ai)**: hobby project, AI-powered music recommendation
 
 2. **Inventing** bleeding edge discoveries in Data & AI
 	- **Data** strategy & architecture
