@@ -4,7 +4,7 @@ layout: default
 
 Hi 👋, my name is Nasr.
 
-At the intersection of Data and AI, I'm a visionary leader fascinated with building high-impact innovative technologies and the teams that deliver them.
+At the intersection of Data and AI, I'm a visionary leader fascinated with building high-impact innovative technologies and teams that deliver them.
 
 Currently **Lead Solutions Architect at PUMA**, my 10+ year journey has included stints in startups, global enterprises, and international R&D environments. 
 
