@@ -30,8 +30,8 @@ The three key pillars I offer are:
 	- As **Lead Solutions Architect at PUMA**, I
 		- Shape organizational strategy
 		- Lead cross-team collaboration 
-		- Led an initiative that **increased PUMA.com speed by 20%**
-		- Founded the **Tech Cats of Ecomm** for company-wide technical communication and alignment
+		- Led an initiative **increasing PUMA.com speed by 20%!**
+		- Founded the **Tech Cats** for company-wide technical communication and alignment
 
 
 Known for my **strategic vision, adaptability, and self-driven leadership**, I thrive at the intersection of **technology, innovation, and business impact**.  
