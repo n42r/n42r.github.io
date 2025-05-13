@@ -4,13 +4,16 @@ layout: default
 
 Hi 👋, my name is Nasr.
 
-I'm a visionary leader for innovative technologies and teams that deliver them.
+I'm a visionary leader of innovative technologies, and the teams that deliver them.
 
 In my 10+ year professional journey, I have led intiaitves in startups, global enterprises, and international R&D consortiums. 
 
 The three key values I offer are:
 
-1. **Leading** innovative digital products and teams (B2B & B2C): **[SIMUTOOL Data Cataloging SaaS](https://github.com/simutool)**, **[Tawla iOS mobile game](tw)**, **[Greetings Studio mobile App](gs)**.
+1. **Leading** innovative digital products & systems (B2B & B2C) 
+	- **[SIMUTOOL Data Cataloging SaaS](https://github.com/simutool)**
+	- **[Tawla iOS mobile game](tw)**
+	- **[Greetings Studio mobile App](gs)**.
 
 2. **Inventing** bleeding edge discoveries and solutions: **[The Basin Network data strategy framework](phd)** (earned a PhD for it), inventing ways to make robots smarter ([one](https://ebooks.iospress.nl/volumearticle/6006), [two](https://doi.org/10.1007/978-3-642-16111-7\_14)), **[Building AI players for a mobile games](tw)**.
 
