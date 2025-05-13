@@ -4,34 +4,29 @@ layout: default
 
 Hi 👋, my name is Nasr.
 
-I'm a visionary leader of innovative technologies, and the teams that deliver them.
+I'm a visionary leader fascinated with building high-impact innovative technologies and the teams that deliver them.
 
-In my 10+ year professional journey, I have led intiaitves in startups, global enterprises, and international R&D consortiums. 
+Currently **Lead Solutions Architect at PUMA**, my 10+ year journey has included stints in startups, global enterprises, and international R&D environments. 
 
-The three key values I offer are:
+The three key pillars I offer are:
 
-1. **Leading** innovative digital products & systems (B2B & B2C) 
+1. **Leading** innovative systems & digital products 
 	- **[SIMUTOOL Data Cataloging SaaS](https://github.com/simutool)**
 	- **[Tawla iOS mobile game](tw)**
-	- **[Greetings Studio mobile App](gs)**.
+	- **[Greetings Studio mobile App](gs)**
+	- **[Muze AI](https://github.com/n42r/muze-ai)**: hobby AI project, an open-source LLM-powered music recommendation service
 
-2. **Inventing** bleeding edge discoveries and solutions: **[The Basin Network data strategy framework](phd)** (earned a PhD for it), inventing ways to make robots smarter ([one](https://ebooks.iospress.nl/volumearticle/6006), [two](https://doi.org/10.1007/978-3-642-16111-7\_14)), **[Building AI players for a mobile games](tw)**.
+2. **Inventing** bleeding edge discoveries and solutions
+	- Next-generation data architecture & strategy methods
+		- **[The Basin Network](phd)**: earned a PhD for it
+		- **[Data-sharing markets](https://doi.org/10.1007/s42486-020-00054-y)**
+	- New Artificial Intelligence (AI) methods
+		- **[AI players for a mobile game	s](tw)**
+		- **[Method to make robots smarter](https://ebooks.iospress.nl/volumearticle/6006)**
+		- **[Another method to make robots smarter](https://doi.org/10.1007/978-3-642-16111-7_14)**
 
-3. **Managing**: As **Lead Solutions Architect at PUMA Global E-Commerce Engineering**, I shape organizational strategy, lead cross-team collaboration, and founded **Tech Cats of eComm** technical coalition.
-
-
---I'm a technology leader fascinated with building innovative technologies and teams that deliver them. 
-
-
-I've spent the last 7 years working with data architecture and data strategy. 
-
-
-
-I've spent the last 7 years working with data architecture and data strategy. 
-
-With **10+ years in data architecture & strategy, AI, and digital products**, I have led initiatives across startups, global enterprises, and **European consortium R&D projects**. As **Lead Solutions Architect at PUMA Global E-Commerce Engineering**, I shaped organizational strategy, led cross-team collaboration, and founded **Tech Cats of eComm** to drive innovation and technical excellence.
-
-At the intersection of **organizational strategy and technical leadership**, I build high-performing teams and drive collaboration to deliver scalable, **high-impact innovation**.  
+3. **Managing**
+	- As **Lead Solutions Architect at PUMA** I shape organizational strategy, lead cross-team collaboration that **increased PUMA.com speed by 20%**.
 
 Key initiatives include:  
 - **[The Basin Network](phd)** – Invented a framework for data strategy to enable the publication and discovery AI/ML teams, earning a PhD and two publications.  
