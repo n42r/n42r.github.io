@@ -11,6 +11,7 @@ Currently **Lead Solutions Architect at PUMA**, my 10+ year journey has included
 The three key pillars I offer are:
 
 1. **Leading** innovative systems & digital products 
+	- **[PUMA.com](https://www.puma.com)**
 	- **[SIMUTOOL Data Cataloging SaaS](https://github.com/simutool)**
 	- **[Tawla iOS mobile game](tw)**
 	- **[Greetings Studio mobile App](gs)**
