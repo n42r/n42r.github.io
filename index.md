@@ -20,7 +20,7 @@ The three core values I bring:
 2. **Inventing** next-generation Data & AI solutions
 	- **Data Strategy & Architecture**
 		- **[The Basin Network](phd)** – next-gen data architecture (PhD-awarded)
-		- **[Data-sharing markets](https://doi.org/10.1007/s42486-020-00054-y)** – research on data sharing in IoT
+		- **[Data-sharing markets](https://doi.org/10.1007/s42486-020-00054-y)** – framework for data sharing in IoT
 	- **Artificial Intelligence (AI)**
 		- **[AI agents for games](tw)**
 		- **[Robotic cognition methods](https://ebooks.iospress.nl/volumearticle/6006)**
