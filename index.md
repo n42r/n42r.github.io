@@ -17,14 +17,12 @@ Currently Lead Solutions Architect at PUMA, I bring 10+ years of experience acro
 	- **[Tawla](tw)** – AI-powered iOS board game
 	- **[Greetings Studio](gs)** – creative mobile app for visual storytelling
 
-2. **Invent and prototype next-generation Data & AI systems**
-	- **Data Strategy & Architecture**
-		- **[The Basin Network](phd)** – PhD-awarded data architecture framework 
-		- **[Data-sharing markets](https://doi.org/10.1007/s42486-020-00054-y)** – novel frameworks for IoT interoperability
-	- **Artificial Intelligence (AI)**
-		- **[AI agents for games](tw)**
-		- **[Robotic cognition](https://ebooks.iospress.nl/volumearticle/6006)** and **[Reasoning systems](https://doi.org/10.1007/978-3-642-16111-7_14)**
-		- **[Muze AI](https://github.com/n42r/muze-ai)** – experimental music recommender 
+2. **Invent and prototype** next-generation **Data & AI systems**
+	- **[The Basin Network](phd)** – PhD-awarded data architecture framework 
+	- **[Data-sharing markets](https://doi.org/10.1007/s42486-020-00054-y)** – novel frameworks for IoT interoperability
+	- **[AI agents for games](tw)**
+	- **[Robotic cognition](https://ebooks.iospress.nl/volumearticle/6006)** and **[Reasoning systems](https://doi.org/10.1007/978-3-642-16111-7_14)**
+	- **[Muze AI](https://github.com/n42r/muze-ai)** – experimental music recommender 
 
 3. **Think beyond the hype — and years ahead of the curve**
 	- Began working on **AI in 2006** — before the boom — earning a reputation as "The AI guy" in local technology circles
