@@ -15,7 +15,7 @@ Currently Lead Solutions Architect at PUMA, I bring 10+ years of experience acro
 	- **[PUMA.com](https://www.puma.com)** – global e-commerce platform
 	- **[SIMUTOOL](https://github.com/simutool)** – EU-funded data cataloging SaaS
 	- **[Tawla](tw)** – AI-powered iOS board game
-	- **[Greetings](gs)** – creative mobile app for visual storytelling
+	- **[Greetings Studio](gs)** – creative mobile app for visual storytelling
 
 2. **Invent and prototype next-generation Data & AI systems**
 	- **Data Strategy & Architecture**
