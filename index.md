@@ -2,12 +2,9 @@
 layout: default
 ---
 
-Hi 👋, my name is Nasr.
+**Technical leader (business-wide, product, or team) with background in Architecture (solution, integration, and data architecture). I bring 15 years of experience across global enterprises, startups, and international R&D projects.**
 
-
-**At the intersection of data, AI, and systems thinking, I’m a deep-tech innovator and venture-minded technology leader, passionate about building meaningful innovations — and the teams that make them thrive.**
-
-Currently Lead Solutions Architect at PUMA, I bring 10+ years of experience across global enterprises, startups, and international R&D, working at the edge of emerging technologies and strategy. I specialize in translating deep technical insight into product architectures, organizational capability, and long-term business value. 
+My strength lies in seeing things **holistically** and translating business strategy into product architectures, organizational capability, and long-term business value.
 	
 **What I Do:**
 
@@ -23,11 +20,6 @@ Currently Lead Solutions Architect at PUMA, I bring 10+ years of experience acro
 	- **[AI agents for games](tw)**
 	- **[Robotic cognition](https://ebooks.iospress.nl/volumearticle/6006)** and **[Reasoning systems](https://doi.org/10.1007/978-3-642-16111-7_14)**
 	- **[Muze AI](https://github.com/n42r/muze-ai)** – experimental music recommender 
-
-3. **Think beyond the hype — and years ahead of the curve**
-	- Began working on **AI in 2006** — before the boom — earning a reputation as "The AI guy" in local technology circles
-	
-	- Developed a **formal data architecture framework** in 2016 — years before "data mesh" and similar concepts gained popularity.
 
 Known for bridging scientific rigor with strategic clarity, I thrive at the convergence of **vision, architecture, and innovation execution** — building toward scalable, sustainable impact in data and AI ecosystems.
 
