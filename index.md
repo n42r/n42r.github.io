@@ -21,6 +21,5 @@ My strength lies in seeing things **holistically** and translating business stra
 	- **[Robotic cognition](https://ebooks.iospress.nl/volumearticle/6006)** and **[Reasoning systems](https://doi.org/10.1007/978-3-642-16111-7_14)**
 	- **[Muze AI](https://github.com/n42r/muze-ai)** – experimental music recommender 
 
-Known for bridging scientific rigor with strategic clarity, I thrive at the convergence of **vision, architecture, and innovation execution** — building toward scalable, sustainable impact in data and AI ecosystems.
 
 
