@@ -12,7 +12,7 @@ My strength lies in seeing things **holistically** and translating business stra
 	- **[PUMA.com](https://www.puma.com)** – global e-commerce platform
 	- **[SIMUTOOL](https://github.com/simutool)** – EU-funded data cataloging SaaS
 	- **[Tawla](tw)** – AI-powered iOS board game
-	- **[Greetings Studio](gs)** – creative mobile app for visual storytelling
+	- **[Greetings Studio](gs)** – mobile app for visual storytelling
 
 2. **Invent and prototype** next-generation **Data & AI systems**
 	- **[The Basin Network](phd)** – PhD-awarded data architecture framework 
