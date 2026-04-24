@@ -7,7 +7,7 @@ layout: default
 I thrive at the intersection of **people, technology, and strategy**: enabling engineers to grow, ensuring reliable delivery, and shaping architectures that serve real business needs.
 
 
-**What I Do:**
+**What I do:**
 
 1. **Build and lead high-performing engineering teams & products**
 	- **[PUMA.com](https://www.puma.com)** – scaled the global e-commerce platform, boosting performance and reliability.
