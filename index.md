@@ -20,7 +20,7 @@ I also take on **senior solution-architecture work** for engineering organizatio
 
 - [**SIMUTOOL**](https://github.com/simutool) - €3.5M EU aerospace consortium: built a system to share simulation, test, and measurement data across 8 partners in 5 countries. The hands-on origin of how I work today.
 - [**PUMA.com**](https://www.puma.com) - performance, reliability, and tech-debt programs across global e-commerce.
-- [**Federated data-sharing research**](https://kasrin.com/phd) - PhD work on describing and exchanging data across organizations without integrating their systems; the problem space now addressed by Catena-X and the EU Data Act.
+- [**Federated data-sharing research**](./the-basin-network) - PhD work on describing and exchanging data across organizations without integrating their systems; the problem space now addressed by Catena-X and the EU Data Act.
 - [**Data-sharing markets for IoT**](https://doi.org/10.1007/s42486-020-00054-y) - research on data interoperability frameworks.
 - **Lomisoft** (2025) - architecture advisory for an early-stage healthcare SaaS venture.
 
