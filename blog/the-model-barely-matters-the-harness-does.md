@@ -36,3 +36,11 @@ The model barely matters. The harness does. And the simpler the harness, the bet
 When evaluating AI tooling, scrutinize the harness, not just the model. Start minimal. Add features only when they prove valuable. If you're spending more time managing your agent's guardrails than doing the work, the harness is too complex.
 
 This is one architect's experience, validated by two independent benchmarks. Your mileage will vary, but the pattern is consistent enough to warrant testing.
+
+
+---
+[Nasr Kasrin](https://kasrin.com/)
+
+I help engineering teams evaluate and configure their AI-assisted development setup: from harness selection to task scoping to documentation architecture. If your team is deciding where to start, or wondering why current results don't match the hype, let's talk.
+
+**[Contact](mailto:nasr.kasrin@gmail.com)** · **[CV](https://raw.githubusercontent.com/n42r/n42r.github.io/main/assets/pdf/resume_kasrin.pdf)**
