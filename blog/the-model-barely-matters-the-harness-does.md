@@ -1,3 +1,7 @@
+---
+layout: plain
+---
+
 # The model barely matters. The harness does.
 
 When it comes to AI tooling, the harness matters more than the model. This is counterintuitive. Most teams obsess over model selection and treat the harness as plumbing. This is the lesson I learned after 50 hours, 13K lines of code on a production healthcare application, and 12+ models tested.
