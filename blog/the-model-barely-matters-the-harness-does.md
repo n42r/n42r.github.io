@@ -39,7 +39,7 @@ This is one architect's experience, validated by two independent benchmarks. You
 
 
 ---
-[Nasr Kasrin](https://kasrin.com/)
+### [Nasr Kasrin](https://kasrin.com/)
 
 I help engineering teams evaluate and configure their AI-assisted development setup: from harness selection to task scoping to documentation architecture. If your team is deciding where to start, or wondering why current results don't match the hype, let's talk.
 
