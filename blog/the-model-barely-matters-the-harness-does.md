@@ -38,8 +38,15 @@ When evaluating AI tooling, scrutinize the harness, not just the model. Start mi
 This is one architect's experience, validated by independent benchmarks. When evaluating AI tooling, scrutinize the harness, not just the model. Start minimal. Add only what proves valuable.
 
 ---
+
+*If your team is evaluating AI coding tools, harness selection is 
+where most of the outcome is decided.*
+
 ### [Nasr Kasrin](https://kasrin.com/)
 
-I help engineering teams evaluate and configure their AI-assisted development setup: from harness selection to task scoping to documentation architecture. If your team is deciding where to start, or wondering why current results don't match the hype, let's talk.
+I help engineering teams adopt AI-assisted development — from tooling 
+setup to architecture conventions to team workflows. 15 years of 
+solution architecture, now focused on what changes when AI writes 
+most of the code.
 
-**[Contact](mailto:nasr.kasrin@gmail.com)** · **[CV](https://raw.githubusercontent.com/n42r/n42r.github.io/main/assets/pdf/resume_kasrin.pdf)**
+**[Get in touch](mailto:nasr.kasrin@gmail.com)** · **[More writing](https://kasrin.com/blog)** · **[LinkedIn](https://linkedin.com/in/nkasrin)**
