@@ -35,7 +35,7 @@ The model barely matters. The harness does. And the simpler the harness, the bet
 
 When evaluating AI tooling, scrutinize the harness, not just the model. Start minimal. Add features only when they prove valuable. If you're spending more time managing your agent's guardrails than doing the work, the harness is too complex.
 
-This is one architect's experience, validated by two independent benchmarks. Your mileage will vary, but the pattern is consistent enough to warrant testing.
+This is one architect's experience, validated by independent benchmarks. When evaluating AI tooling, scrutinize the harness, not just the model. Start minimal. Add only what proves valuable.
 
 ---
 ### [Nasr Kasrin](https://kasrin.com/)

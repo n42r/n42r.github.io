@@ -19,8 +19,7 @@ building an AI-native software product from architecture through deployment.
 
 **AI adoption for engineering teams.** Assess where AI fits in your engineering workflow, design the conventions and guardrails that make it sustainable, and pilot the approach with real teams. The goal isn't "use more AI" — it's ship better software with the team you have.
 
-**Senior solution architecture.** Reliability, tech-debt programs, roadmaps that survive delivery, system design for teams that build.
-Hands-on when it helps; strategic when that's what's needed.
+**Senior solution architecture.** Reliability, tech-debt programs, roadmaps that survive delivery, system design for teams that build. Hands-on when it helps; strategic when that's what's needed. Includes data-sharing and interoperability architecture for organizations navigating Catena-X, EU Data Act, or cross-partner data exchange requirements.
 
 **Technical co-founding and early-stage strategy.** For founders moving from idea to product: architecture that lets prototypes evolve
 into production without rework, AI-assisted development to move fast without cutting corners.
