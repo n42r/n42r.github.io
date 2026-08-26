@@ -4,7 +4,7 @@ layout: plain
 
 # The model barely matters. The harness does.
 
-When it comes to AI tooling, the harness matters more than the model This is counterintuitive. Most teams obsess over model selection and treat the harness as plumbing. This is the lesson I learned after 50 hours, 13K lines of code on a production healthcare application, and 12+ models tested. I started with 6 harnesses, 20 skills, and 8 plugins. I ended with one harness, two skills, and a working production app.
+I started with 6 harnesses, 20 skills, and 8 plugins. I ended with one harness, two skills, and a working production app. When it comes to AI tooling, the harness matters more than the model — most teams obsess over model selection and treat the harness as plumbing. That's what 50 hours, 13K lines of code on a production healthcare application, and 12+ models tested taught me.
 
 The **_agent harness_** is the most promising development to come out of the LLM space. The idea is dead simple. _Put the agent in a loop and allow it to call tools and execute commands on your computer._
 
