@@ -16,7 +16,7 @@ Based on my experience and in external benchmarks, _**the harness moved outcomes
 
 The mechanism is context management. Databricks found that Pi sent roughly three times less context per turn than native harnesses like Claude Code or Codex. A simpler harness doesn't let the model wander; it keeps the working set tight, which means fewer tokens, fewer round-trips, and less noise competing with the actual task. The harness isn't just a UI preference. It's a context management decision, and context is the actual bottleneck.
 
-Besides the numbers game, there is another reason why a simple (and modular) harness is better. A bare-bones harness forces you to adapt it to your environment. A feature-rich harness arrives with opinions about how you should work as well as constraints (such as which models to use). A minimal one arrives with tools and asks you to decide. That decision--how to configure the harness for your stack, team, codebase--is where the real adoption work happens. It's also where most teams skip the work and wonder why the results are mediocre. Databrick's aforementioned benchmark ends on a similar note:
+Think of the difference between a terminal and a GUI application. The terminal gives you all the operations; you decide which to use, chain, and build scripts around. The GUI restricts you to workflows someone else built. I started with a one-shot harness that gave me two dials: a text field and a submit button. No visibility into what was running, no control over what to add or remove. A minimal harness like Pi flips that — you get tools and you decide how to configure them for your stack, team, and codebase. That decision is where the real adoption work happens. It's also where most teams skip the work and wonder why results are mediocre. Databricks' benchmark ends on a similar note:
 
 > "At Databricks, we’ve always been wary of lock-in, not just to vendors, but to assumptions that make teams less flexible over time. [We] give engineers room to move across models and harnesses [...]"
 
@@ -33,16 +33,16 @@ The pattern is clear: model size and price don't predict outcomes for developmen
 
 The model barely matters. The harness does. And the simpler the harness, the better, because simplicity forces the discipline that actually drives results. 
 
-When evaluating AI tooling, scrutinize the harness, not just the model. Start minimal. Add features only when they prove valuable. If you're spending more time managing your agent's guardrails than doing the work, the harness is too complex.
-
 This is one architect's experience, validated by independent benchmarks. When evaluating AI tooling, scrutinize the harness, not just the model. Start minimal. Add only what proves valuable.
 
 ---
+<br />
 
-*If your team is evaluating AI coding tools, harness selection is 
-where most of the outcome is decided.*
+*If your team is evaluating AI coding tools, harness selection is where most of the outcome is decided.*
 
-### [Nasr Kasrin](https://kasrin.com/)
+<br />
+
+## [Nasr Kasrin](https://kasrin.com/)
 
 I help engineering teams adopt AI-assisted development — from tooling 
 setup to architecture conventions to team workflows. 15 years of 
