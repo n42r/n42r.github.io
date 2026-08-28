@@ -35,7 +35,10 @@ The model barely matters. The harness does. And the simpler the harness, the bet
 
 This is one architect's experience, validated by independent benchmarks. When evaluating AI tooling, scrutinize the harness, not just the model. Start minimal. Add only what proves valuable.
 
+<br />
+
 ---
+
 <br />
 
 *If your team is evaluating AI coding tools, harness selection is where most of the outcome is decided.*
