@@ -31,5 +31,3 @@ Currently focused on AI-assisted software engineering: how architecture, team pr
 
 [Blog posts on AI-era engineering practices →](./blog)
 
-
-**[Contact](mailto:nasr.kasrin@gmail.com)** · **[CV](./assets/pdf/resume_kasrin.pdf)** · **[LinkedIn](https://linkedin.com/in/nkasrin)**

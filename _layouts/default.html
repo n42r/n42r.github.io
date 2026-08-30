@@ -28,13 +28,14 @@
         {% endif %}
 
         <div class="links">
-        {% if site.linkedin %}
-			<a href="https://www.linkedin.com/in/{{site.linkedin}}">LinkedIn</a>
-        {% endif %}
 
         {% if site.email %}
-            &middot;
 			<a href="mailto:{{site.email}}">Contact</a>
+        {% endif %}
+
+        {% if site.linkedin %}
+            &middot;
+            <a href="https://www.linkedin.com/in/{{site.linkedin}}">LinkedIn</a>
         {% endif %}
 
         {% if site.resume_url %}
