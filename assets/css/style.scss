@@ -123,3 +123,10 @@ details summary {
 p.resume a {
   font-weight: bold;
 }
+
+/* drop the superfluous bottom separator line in mobile */
+@media (max-width: 960px) {
+  section {
+    border-bottom: none;
+  }
+}
