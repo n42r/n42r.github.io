@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Nasr Kasrin, Dr. rer. nat.
+# Nasr Kasrin (Dr.)
 
 I help engineering organizations adopt AI-assisted development without losing architectural discipline. Not just the tools — the practices,
 the conventions, the quality standards, and the evolving role of architects and engineering leads in a world where AI writes most of

@@ -6,10 +6,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 {% seo %}
 
-<!--
-<link rel="preload"  href="/assets/fonts/Montserrat/Montserrat-Regular.woff2" as="font" type="font/woff2" crossorigin>
--->
-
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
@@ -18,50 +14,70 @@
   </head>
   <body>
     <div class="wrapper">
+
+      <section>
+<!--
+        {% if site.german %}
+
+			 <p style="text-align:right;">	 🇩🇪 :<a href="{{site.german}}"> Lese auf Deutsch </a></p>
+
+        {% endif %}
+-->
+
+      {{ content }}
+
+      </section>
+
       <header>
 		<!--
 	   <h1>{{ site.title | default: site.github.repository_name }}</h1>
-		--> 
-		
+		-->
+
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Photo" />
         {% endif %}
-		
+
+        {% if site.headline %}
+		    <h3> {{site.linkedin}} </h3>
+        {% endif %}
+
+        <br/>
 		<br/>
-		<br/>
+
+
 <!--
         {% if site.roles %}
 			<h3>{{site.roles}}</h3>
         {% endif %}
 
 		<br/>
-		
-		
-		{% if site.resume_url %}		
+
+
+		{% if site.resume_url %}
 			<a href="{{site.resume_url}}"> R&eacute;sum&eacute; </a> <br/>
         {% endif %}
-		
-		
+
+
         {% if site.linkedin %}
 			<a href="https://www.linkedin.com/in/{{site.linkedin}}"> LinkedIn </a> <br/>
-        {% endif %}		
+        {% endif %}
 
-        {% if site.email %}		
+        {% if site.email %}
 			<a href="mailto:{{site.email}}"> Email </a> <br/>
         {% endif %}
-		
-		
+
+
         {% if site.github %}
 			<a href="{{site.github}}"> GitHub </a> <br/>
         {% endif %}
-		
-	-->	
+
+	-->
 		<br/>
-		        
+
 		<!--
 		<p>{{ site.description | default: site.github.project_tagline }}</p>
 		-->
-		
+
         <!-- {% if site.github.is_project_page %}
         <p class="view"><a href="{{ site.github.repository_url }}">View the Project on GitHub <small>{{ site.github.repository_nwo }}</small></a></p>
         {% endif %}
@@ -80,25 +96,13 @@
         {% endif %}
  -->
 	</header>
-      <section>
-<!--
-        {% if site.german %}
-			
-			 <p style="text-align:right;">	 🇩🇪 :<a href="{{site.german}}"> Lese auf Deutsch </a></p>
-			 
-        {% endif %}
--->
-
-      {{ content }}
-
-      </section>
 	<!--
-	  <footer>			
+	  <footer>
 		{% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
-		
-		
+
+
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>

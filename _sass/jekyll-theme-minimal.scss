@@ -120,8 +120,9 @@ kbd {
 
 header {
   width:270px;
-  float:left;
   position:fixed;
+  top:50px;
+  right:calc((100% - 860px)/2);
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
@@ -187,7 +188,7 @@ strong {
 
 section {
   width:500px;
-  float:right;
+  float:left;
   padding-bottom:50px;
 }
 
@@ -221,10 +222,6 @@ footer {
     float:none;
     position:static;
     width:auto;
-  }
-
-  header {
-    padding-right:320px;
   }
 
   section {
