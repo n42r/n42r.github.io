@@ -8,3 +8,4 @@
   - _layouts/*
   - assets/css/*
   - _config.yaml
+- Don't launch a preview server, I already have one running that I manage and restart manually.
