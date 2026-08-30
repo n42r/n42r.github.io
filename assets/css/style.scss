@@ -49,6 +49,7 @@ header img {
 
 header h4 {
   margin-top:14px;
+  margin-bottom:14px;
 }
 
 h3 {
@@ -67,4 +68,21 @@ a {
   color: #61caff;
   text-decoration: underline;
 
+}
+
+/* breathing room around the collapsed intro toggle */
+details {
+  margin: 0 0 4px;
+}
+
+details summary {
+  cursor: pointer;
+  font-size: 18px;
+  font-style: italic;
+  margin: 0 0 20px;
+}
+
+/* full-resume call to action */
+p.resume a {
+  font-weight: bold;
 }
