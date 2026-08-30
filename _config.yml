@@ -6,7 +6,9 @@ headline: "Technical leader and builder &middot; Writing about software engineer
 roles:
 email: nasr.kasrin@gmail.com
 linkedin: nkasrin
-blog: ./blog
 github:
 german:
 resume_url: "./assets/pdf/resume_kasrin.pdf"
+
+# posts render under /blog/<slug>/ (slug = filename minus date prefix)
+permalink: /blog/:title/

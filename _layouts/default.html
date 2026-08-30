@@ -55,7 +55,13 @@
           <p class="resume"><a href="{{ site.resume_url | relative_url }}">Full Resume →</a></p>
         </details>
 
-        {{ site.data.me.writing | markdownify }}
+        <h2>Writing</h2>
+
+        <ul>
+          {% for post in site.posts %}
+          <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+          {% endfor %}
+        </ul>
 
       </section>
 

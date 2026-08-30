@@ -1,5 +1,7 @@
 ---
 layout: plain
+title: The model barely matters. The harness does.
+date: 2026-08-30
 ---
 
 # The model barely matters. The harness does.
