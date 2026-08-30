@@ -18,6 +18,28 @@
     font-display: swap;
 }
 
+@font-face {
+    font-family: 'Montserrat';
+    src: url('../fonts/Montserrat-Bold/montserrat-bold-webfont.woff2') format('woff2'),
+        url('../fonts/Montserrat-Bold/montserrat-bold-webfont.woff') format('woff'),
+        url('../fonts/Montserrat-Bold/montserrat-bold-webfont.ttf') format('truetype'),
+        url('../fonts/Montserrat-Bold/montserrat-bold-webfont.svg#montserratbold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('../fonts/Montserrat-SemiBold/montserrat-semibold-webfont.woff2') format('woff2'),
+        url('../fonts/Montserrat-SemiBold/montserrat-semibold-webfont.woff') format('woff'),
+        url('../fonts/Montserrat-SemiBold/montserrat-semibold-webfont.ttf') format('truetype'),
+        url('../fonts/Montserrat-SemiBold/montserrat-semibold-webfont.svg#montserratsemi_bold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
 
 @import "jekyll-theme-minimal";
 
@@ -36,7 +58,7 @@ h1 {
 
 header h1 {
   font-size: 32px;
-  font-weight: bold;
+  font-weight: 400;
 }
 
 header img {
@@ -50,6 +72,7 @@ header img {
 header h4 {
   margin-top:14px;
   margin-bottom:14px;
+  font-weight: 400;
 }
 
 h3 {
@@ -60,6 +83,15 @@ h4 {
  font-size: 16px;
 }
 
+/* soften content headings and bold text from full-bold to semibold */
+h2, h3 {
+  font-weight: 500;
+}
+
+strong {
+  font-weight: 550;
+}
+
 body {
   font-size: 18px;
 }
@@ -68,6 +100,11 @@ a {
   color: #61caff;
   text-decoration: underline;
 
+}
+
+/* bold text inside a link matches the link colour */
+a strong {
+  color: inherit;
 }
 
 /* breathing room around the collapsed intro toggle */
