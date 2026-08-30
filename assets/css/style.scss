@@ -61,6 +61,13 @@ header h1 {
   font-weight: 400;
 }
 
+/* plain/post page titles: match the homepage name specs */
+main.page-content h1 {
+  font-size: 32px;
+  font-weight: 400;
+  text-align: left;
+}
+
 header img {
   width:180px;
   height:180px;
@@ -129,4 +136,77 @@ p.resume a {
   section {
     border-bottom: none;
   }
+}
+
+/* brand / back header shared by plain and post pages */
+.brand {
+  max-width: 860px;
+  margin: 0 auto;
+  padding: 20px;
+  font-size: 16px;
+}
+
+.brand a {
+  color: #adbac7;
+  text-decoration: none;
+  font-weight: 400;
+  font-size: 20px;
+}
+
+.brand a:hover {
+  color: #61caff;
+}
+
+.page-content {
+  max-width: 860px;
+  margin: 0 auto;
+  padding: 0 20px 40px;
+}
+
+/* published date under a post */
+.post-date {
+  color: #9299a6;
+  font-size: 15px;
+  font-style: italic;
+  margin: 40px 0 16px;
+}
+
+/* author card at the end of a post */
+.post-footer {
+  margin: 12px 0 0;
+  padding: 0 0 60px;
+}
+
+.post-footer hr {
+  margin: 0 0 32px;
+}
+
+.post-footer .other-writing {
+  margin: 0 0 33px;
+}
+
+.post-footer .other-writing a {
+  font-weight: 600;
+}
+
+
+.post-author h2.name {
+  color: #cdd9e5;
+  font-size: 32px;
+  font-weight: 400;
+  margin: 24px 0 16px;
+}
+
+.post-author h2.name a {
+  color: #cdd9e5;
+  text-decoration: none;
+}
+
+.post-author h2.name a:hover {
+  color: #61caff;
+}
+
+.post-author .headline {
+  font-style: italic;
+  margin: 0 0 16px;
 }

@@ -1,5 +1,5 @@
 ---
-layout: plain
+layout: post
 title: The model barely matters. The harness does.
 date: 2026-08-30
 ---
@@ -37,21 +37,4 @@ The model barely matters. The harness does. And the simpler the harness, the bet
 
 This is one architect's experience, validated by independent benchmarks. When evaluating AI tooling, scrutinize the harness, not just the model. Start minimal. Add only what proves valuable.
 
-<br />
-
----
-
-<br />
-
-*If your team is evaluating AI coding tools, harness selection is where most of the outcome is decided.*
-
-<br />
-
-## [Nasr Kasrin](https://kasrin.com/)
-
-I help engineering teams adopt AI-assisted development — from tooling 
-setup to architecture conventions to team workflows. 15 years of 
-solution architecture, now focused on what changes when AI writes 
-most of the code.
-
-**[Get in touch](mailto:nasr.kasrin@gmail.com)** · **[More writing](https://kasrin.com/blog)** · **[LinkedIn](https://linkedin.com/in/nkasrin)**
+*If your team is evaluating AI coding tools, harness selection is a decision that has significant downstream effects.*
