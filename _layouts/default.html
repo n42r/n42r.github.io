@@ -29,20 +29,33 @@
       </section>
 
       <header>
-		<!--
-	   <h1>{{ site.title | default: site.github.repository_name }}</h1>
-		-->
+
+	    <h1>{{ site.title}}</h1>
 
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Photo" />
         {% endif %}
 
         {% if site.headline %}
-		    <h3> {{site.linkedin}} </h3>
+		    <h4>{{site.headline}}</h4>
         {% endif %}
 
-        <br/>
-		<br/>
+        <div class="links">
+        {% if site.linkedin %}
+			<a href="https://www.linkedin.com/in/{{site.linkedin}}">LinkedIn</a>
+        {% endif %}
+
+        {% if site.email %}
+            &middot;
+			<a href="mailto:{{site.email}}">Contact</a>
+        {% endif %}
+
+        {% if site.resume_url %}
+            &middot;
+			<a href="{{site.resume_url}}">Resume</a>
+        {% endif %}
+        </div>
+
 
 
 <!--
@@ -51,21 +64,6 @@
         {% endif %}
 
 		<br/>
-
-
-		{% if site.resume_url %}
-			<a href="{{site.resume_url}}"> R&eacute;sum&eacute; </a> <br/>
-        {% endif %}
-
-
-        {% if site.linkedin %}
-			<a href="https://www.linkedin.com/in/{{site.linkedin}}"> LinkedIn </a> <br/>
-        {% endif %}
-
-        {% if site.email %}
-			<a href="mailto:{{site.email}}"> Email </a> <br/>
-        {% endif %}
-
 
         {% if site.github %}
 			<a href="{{site.github}}"> GitHub </a> <br/>

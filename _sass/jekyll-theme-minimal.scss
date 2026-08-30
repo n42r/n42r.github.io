@@ -121,8 +121,14 @@ kbd {
 header {
   width:270px;
   position:fixed;
-  top:50px;
+  top:0;
+  bottom:0;
   right:calc((100% - 860px)/2);
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items:center;
+  text-align:center;
   -webkit-font-smoothing:subpixel-antialiased;
 }
 
@@ -222,6 +228,7 @@ footer {
     float:none;
     position:static;
     width:auto;
+    display:block;
   }
 
   section {
