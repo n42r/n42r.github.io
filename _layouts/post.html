@@ -1,6 +1,8 @@
 ---
 layout: plain
 ---
+<p class="post-meta">{% include read_time.html content=page.content %}</p>
+
 {{ content }}
 
 <p class="post-date">Published on {{ page.date | date: "%B %Y" }}</p>

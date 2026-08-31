@@ -131,6 +131,18 @@ p.resume a {
   font-weight: bold;
 }
 
+/* estimated reading time */
+.read-time,
+.listing-meta {
+  color: #c9d1d9;
+  font-size: 14px;
+  font-style: italic;
+}
+
+.post-meta {
+  margin: 0 0 8px;
+}
+
 /* drop the superfluous bottom separator line in mobile */
 @media (max-width: 960px) {
   section {
