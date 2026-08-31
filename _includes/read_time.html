@@ -1,9 +1,10 @@
 {% comment %}
 Estimated reading time. Pure Liquid (GitHub Pages safe-mode compatible).
 Run content through strip_html so only visible words count.
-WPM ~240 — a reading speed that errs on the short side for posted articles.
+WPM ~180 — the common comprehension speed for on-screen reading; matches
+author-timed reading for these posts.
 {% endcomment %}
 {%- assign words = include.content | strip_html | number_of_words -%}
-{%- assign minutes = words | divided_by: 240 | round -%}
+{%- assign minutes = words | divided_by: 180.0 | round -%}
 {%- if minutes < 1 -%}{%- assign minutes = 1 -%}{%- endif -%}
 <span class="read-time">{{ minutes }} min read</span>

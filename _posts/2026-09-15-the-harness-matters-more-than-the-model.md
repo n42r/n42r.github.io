@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The harness matters more than the model"
-date: 2026-08-31
+date: 2026-09-15
 series: agentic-skeleton
 series_num: 2
 series_title: The Agentic AI Skeleton

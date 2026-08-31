@@ -5,8 +5,9 @@ Each post in the series sets, in front matter:
   series_num: <int>         (order within the series)
   series_title: <name>      (optional; falls back to the series slug)
 We compare series_num values directly (no array-index math), so ordering
-works regardless of post date. Renders nothing when no `series` or only a
-single part.
+works regardless of post date. Renders nothing when the page has no
+`series`. Shows a lighter "Part N of an upcoming series" line when only
+the current part is published.
 {% endcomment %}
 {%- if page.series and page.series_num -%}
   {%- assign this_num = page.series_num -%}
@@ -27,14 +28,18 @@ single part.
     {%- endif -%}
   {%- endfor -%}
 
-  {%- if total > 1 -%}
   <aside class="series-box">
     <span class="series-label">Series: {{ page.series_title | default: page.series }}</span>
+    {%- if total > 1 -%}
     <span class="series-count">Part {{ current }} of {{ total }}</span>
+    {%- else -%}
+    <span class="series-count">Part {{ current }} of an upcoming series</span>
+    {%- endif -%}
+    {%- if prev_post or next_post -%}
     <div class="series-nav">
       {%- if prev_post -%}<a class="series-prev" href="{{ prev_post.url }}">&larr; {{ prev_post.title }}</a>{%- endif -%}
       {%- if next_post -%}<a class="series-next" href="{{ next_post.url }}">{{ next_post.title }} &rarr;</a>{%- endif -%}
     </div>
+    {%- endif -%}
   </aside>
-  {%- endif -%}
 {%- endif -%}
