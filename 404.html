@@ -1,0 +1,36 @@
+---
+layout: plain
+permalink: /404.html
+---
+<div class="notfound">
+  <h1 id="notfound-title">Page not found</h1>
+  <p id="notfound-message">
+    The page you're looking for doesn't exist.
+  </p>
+  <p class="notfound-link" id="notfound-home">
+    <a href="{{ '/' | relative_url }}">Back to kasrin.com</a>
+  </p>
+  <p class="notfound-link" id="notfound-writing" style="display:none;">
+    <a href="{{ '/writing/' | relative_url }}">See all writings</a>
+  </p>
+</div>
+
+<script>
+  // Soft-route the 404 based on where the visitor was headed.
+  // Broken /blog/* (or old /blog/ links) -> the writing listing.
+  // Anything else -> the homepage.
+  (function () {
+    var path = window.location.pathname;
+    var writing = document.getElementById('notfound-writing');
+    var home = document.getElementById('notfound-home');
+    var title = document.getElementById('notfound-title');
+    var message = document.getElementById('notfound-message');
+
+    if (path.indexOf('/blog/') === 0) {
+      title.textContent = 'That article is not here';
+      message.textContent = 'The article you followed may have been moved, split, or removed.';
+      writing.style.display = '';
+      home.style.display = 'none';
+    }
+  })();
+</script>

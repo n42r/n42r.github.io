@@ -153,6 +153,24 @@ p.resume a {
   background: #22272e;
 }
 
+/* 404 not-found block */
+.notfound {
+  text-align: center;
+  padding: 60px 20px;
+}
+
+.notfound h1 {
+  color: #cdd9e5;
+}
+
+.notfound p {
+  color: #adbac7;
+}
+
+.notfound .notfound-link a {
+  font-weight: 600;
+}
+
 .series-box .series-label {
   font-weight: 600;
   color: #cdd9e5;
