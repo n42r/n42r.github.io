@@ -143,6 +143,39 @@ p.resume a {
   margin: 0 0 8px;
 }
 
+/* series companion box */
+.series-box {
+  border: 1px solid #3a3f47;
+  border-left: 3px solid #61caff;
+  border-radius: 6px;
+  padding: 12px 16px;
+  margin: 40px 0 24px;
+  background: #22272e;
+}
+
+.series-box .series-label {
+  font-weight: 600;
+  color: #cdd9e5;
+}
+
+.series-box .series-count {
+  color: #9299a6;
+  font-size: 14px;
+  margin-left: 8px;
+}
+
+.series-box .series-nav {
+  margin-top: 8px;
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.series-box .series-nav a {
+  font-size: 15px;
+}
+
 /* drop the superfluous bottom separator line in mobile */
 @media (max-width: 960px) {
   section {
