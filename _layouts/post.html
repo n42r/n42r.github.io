@@ -15,6 +15,9 @@ layout: plain
   <div class="post-author">
     <h2 class="name"><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h2>
     <p class="headline">{{ site.headline }}</p>
+    {%- if site.location -%}
+    <p class="location">{{ site.location }}</p>
+    {%- endif -%}
     <div class="links">
       <a href="mailto:{{ site.email }}">Contact</a>
       <span class="sep">&middot;</span>

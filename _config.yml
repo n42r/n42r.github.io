@@ -3,6 +3,7 @@ show_downloads: false
 theme: jekyll-theme-minimal
 title: Nasr Kasrin
 salutation: Dr.
+location: "Germany &middot; Europe"
 headline: "Technical leader and builder &middot; Writing about software engineering in the age of AI"
 roles:
 email: nasr.kasrin@gmail.com

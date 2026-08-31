@@ -82,6 +82,18 @@ header h4 {
   font-weight: 400;
 }
 
+/* location under a card's contact/linkedin line */
+.location {
+  color: #9299a6;
+  font-size: 14px;
+  font-style: italic;
+  margin: 5px 0 14px;
+}
+
+.post-author .location {
+  margin: 16px 0;
+}
+
 h3 {
  font-size: 20px;
 }
