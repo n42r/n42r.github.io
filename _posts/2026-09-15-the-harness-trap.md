@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "The harness matters more than the model"
+title: "The harness trap"
 date: 2026-09-15
 series: agentic-skeleton
 series_num: 2
 series_title: The Agentic AI Skeleton
 ---
 
-# The harness matters more than the model
+# The harness trap
 
 I started with 6 harnesses, 20 skills, and 8 plugins. I ended with one harness, two skills, and a working production app.
 
