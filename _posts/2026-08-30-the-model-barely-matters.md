@@ -9,11 +9,11 @@ series_title: The Agentic AI Skeleton
 
 # The model barely matters
 
-The industry line on AI coding is simple: pick the right model and your problems are solved. If not today's model, tomorrow's will do it.
+The industry line on AI coding is simple: pick the right model and your problems are solved. If not today's model, tomorrow's will do it. And whichever it is, make it the most expensive one.
 
 50 hours and a production healthcare app later, I learned that the model barely matters.
 
-I ran 12+ open-weight models through the same harness on the same codebase. The differences were marginal. I spent €15 on tokens total. That €15 wasn't an achievement — it was proof that the model was never the bottleneck.
+I ran 12+ models through the same harness on the same codebase. The differences were marginal. I spent €15 on tokens total. That €15 wasn't an achievement — it was proof that the model was never the bottleneck.
 
 External data backs this up:
 
@@ -24,6 +24,6 @@ The pattern is clear: model size and price don't predict outcomes for developmen
 
 What _did_ matter was the environment I built around the model — the harness, the task scoping, and the documentation structure.
 
-So stop agonizing over model selection. Pick any competent open-weight model, avoid lock-in to proprietary offerings, and move on. The model isn't where your time goes — and it shouldn't be where your attention goes either.
+Stop agonizing over model selection. Step out of the frontier bracket and try a couple of competent mid-range models — open-weight, last-gen frontier, whatever's accessible. Get a cloud subscription that gives you access to several, start from the affordable end, and go up until you're satisfied. You'll find one that works within the first day. Then move on. The model isn't where your time goes — and it shouldn't be where your attention goes either.
 
 _Having freed yourself from the model question, the next thing to look at is the harness. That's the next piece._
