@@ -17,7 +17,7 @@ I ran 12+ models through the same harness on the same codebase. The differences 
 
 External data backs this up:
 
-- **[Databricks' Benchmark](https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase)** on a multi-million-line codebase: token price is a poor predictor of actual task cost, and open-weight models handled the highest-difficulty tasks just fine.
+- **[Databricks' Benchmark](https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase)** on a multi-million-line codebase: token price is a poor predictor of actual task cost, and "open models are now able to handle even the highest level of task difficulty".
 - **[Veracode's 2026 survey](https://www.veracode.com/resources/analyst-reports/2026-genai-code-security-report/)**: model size doesn't improve code security, and coding-specialized models aren't safer than general ones.
 
 The pattern is clear: model size and price don't predict outcomes for development tasks. Security doesn't improve with bigger models. Task completion doesn't require frontier models.

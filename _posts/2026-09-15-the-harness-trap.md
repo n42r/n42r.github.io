@@ -9,13 +9,13 @@ series_title: The Agentic AI Skeleton
 
 # The harness trap
 
-I started with 6 harnesses, 20 skills, and 8 plugins. I ended with one harness, two skills, and a working production app.
+[I started with 6 harnesses, 20 skills, and 8 plugins — fully equipped for a problem I didn't understand yet. I ended with one harness, two skills, and a working production app.
 
 The **agent harness** is the most promising development to come out of the LLM space. The idea is dead simple: put the agent in a loop, give it tools, let it execute commands on your computer.
 
-50 hours of agentic coding showed me that the harness moved outcomes more than the model. External benchmarks confirm it:
+50 hours of agentic coding showed me the harness matters — but not in the direction the market pushes you. External benchmarks confirm it:
 
-- **[Databricks' Benchmark](https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase)**: same model, different harness, 2x cost difference. The modular harness (Pi) won.
+- **[Databricks' Benchmark](https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase)**: "The harness a model is called from dramatically impacts cost and quality. In many cases, simple harnesses like Pi performed best on our workloads."
 - **[Composio's Comparison](https://composio.dev/content/best-ai-agent-harnesses)**: same model, 8 harnesses, 20-point spread. Again, a modular harness won.
 
 Same model, different harnesses, massive variance. When you hold the model constant, the harness accounts for most of the outcome — not the other way around.
