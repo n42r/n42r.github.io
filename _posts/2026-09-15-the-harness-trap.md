@@ -9,7 +9,7 @@ series_title: The Agentic AI Skeleton
 
 # The harness trap
 
-[I started with 6 harnesses, 20 skills, and 8 plugins — fully equipped for a problem I didn't understand yet. I ended with one harness, two skills, and a working production app.
+I started with 6 harnesses, 20 skills, and 8 plugins — fully equipped for a problem I didn't understand yet. I ended with one harness, two skills, and a working production app.
 
 The **agent harness** is the most promising development to come out of the LLM space. The idea is dead simple: put the agent in a loop, give it tools, let it execute commands on your computer.
 
