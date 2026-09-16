@@ -1,0 +1,36 @@
+# Figures spec — single source of truth for generating theme-aware SVG figures.
+# Paste the "context" section into an LLM prompt along with your post thesis, or
+# reference this file when generating figures by hand.
+
+# Box: figures render into a ~720px container on the site (see .post-figure max-width).
+viewbox: "0 0 800 500"     # landscape, ~5:3
+min_stroke_width: 2        # thin strokes disappear on a light canvas below 2px
+primary_stroke_weight: 3   # emphasis lines
+
+# The two palettes the SVG must switch between via an internal
+# `@media (prefers-color-scheme: dark)` block. LIGHT is the default branch.
+
+light_theme:
+  canvas: "#f8f6f3"        # soft warm off-white (paper-like)
+  fg:      "#3a3f47"       # primary strokes (dark slate)
+  dim:     "#6a7480"       # secondary / lower-priority linework
+  accent:  "#0b6bcc"       # highlight (a deeper blue so it holds on white)
+
+dark_theme:
+  canvas: "#1c2128"
+  fg:      "#cdd9e5"       # primary strokes (bright light)
+  dim:     "#adbac7"       # secondary
+  dim2:    "#9299a6"       # least-important linework (optional)
+  accent:  "#61caff"
+
+# Hard rules the LLM must follow (paste into the prompt):
+rules:
+  - "Every fill/stroke uses a class defined in the SVG's own <style> block; no per-shape hardcoded hex."
+  - "The <style> block must include @media (prefers-color-scheme: dark) swapping to the dark palette."
+  - "Use stroke-width >= 2px (3px for primary lines) so linework survives on the light canvas."
+  - "Include viewBox, role=\"img\", and a <title> for accessibility."
+  - "Emit only the standalone <svg>...</svg>; the blog loads it via <img>."
+
+# Optional: fill in next to keep consistency across prompts.
+# post_thesis: "The harness matters more than the model"
+# desired_filename: "model-vs-harness.svg"

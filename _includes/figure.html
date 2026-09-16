@@ -1,0 +1,14 @@
+{% comment %}
+Figure include — renders a bounded, responsive image with optional caption.
+Call with:
+  {% include figure.html src="/assets/img/posts/foo.svg" alt="..." caption="..." %}
+{% endcomment %}
+<figure class="post-figure">
+  <img
+    src="{{ include.src | relative_url }}"
+    alt="{{ include.alt | default: 'Illustration' }}"
+    loading="lazy">
+  {%- if include.caption -%}
+  <figcaption>{{ include.caption }}</figcaption>
+  {%- endif -%}
+</figure>

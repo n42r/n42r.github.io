@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-labelledby="title">
+  <title id="title">Cold startability — an S-curve rising steeply from zero to full</title>
+  <defs>
+    <style>
+      .bg    { fill: #f8f6f3; }
+      .curve { fill: none; stroke: #0b6bcc; stroke-width: 8; stroke-linecap: round; }
+      @media (prefers-color-scheme: dark) {
+        .bg    { fill: #1c2128; }
+        .curve { stroke: #61caff; }
+      }
+    </style>
+  </defs>
+  <rect class="bg" x="0" y="0" width="800" height="500"/>
+  <path class="curve" d="M 80 445 C 192 445, 285 445, 340 441 C 401 434, 393 90, 457 64 C 531 40, 630 57, 720 55"/>
+</svg>

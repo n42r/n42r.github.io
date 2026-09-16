@@ -68,6 +68,32 @@ main.page-content h1 {
   text-align: left;
 }
 
+/* post title (from front matter), rendered by the post layout */
+.post-title {
+  font-size: 32px;
+  font-weight: 400;
+  color: #cdd9e5;
+}
+
+/* bounded, responsive figure at the top of a post */
+.post-figure {
+  margin: 16px auto 16px;
+  max-width: 600px;
+  text-align: center;
+}
+
+.post-figure img {
+  max-width: 100%;
+  height: auto;
+}
+
+.post-figure figcaption {
+  font-style: italic;
+  font-size: 14px;
+  color: #9299a6;
+  margin-top: 8px;
+}
+
 header img {
   width:180px;
   height:180px;
@@ -156,6 +182,7 @@ p.resume a {
   margin: 0 0 8px;
 }
 
+
 /* series companion box */
 .series-box {
   border: 1px solid #3a3f47;
@@ -222,8 +249,15 @@ p.resume a {
   font-size: 16px;
 }
 
+/* plain/post pages: less top space above the brand than the homepage needs */
+@media (min-width: 961px) {
+  body.plain {
+    padding-top: 24px;
+  }
+}
+
 .brand a {
-  color: #adbac7;
+  color: #61caff;
   text-decoration: none;
   font-weight: 400;
   font-size: 20px;

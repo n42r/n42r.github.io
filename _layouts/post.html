@@ -1,7 +1,13 @@
 ---
 layout: plain
 ---
-<p class="post-meta">{% include read_time.html content=page.content %}</p>
+<p class="post-meta">{% include read_time.html content=content %}</p>
+
+<h1 class="post-title">{{ page.title }}</h1>
+
+{%- if page.image -%}
+{% include figure.html src=page.image alt=page.image_alt caption=page.image_caption %}
+{%- endif -%}
 
 {{ content }}
 

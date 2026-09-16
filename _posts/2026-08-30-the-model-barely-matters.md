@@ -5,9 +5,9 @@ date: 2026-08-30
 series: agentic-skeleton
 series_num: 1
 series_title: The Agentic AI Skeleton
+image:
+image_alt:
 ---
-
-# The model barely matters
 
 The industry line on AI coding is simple: pick the right model and your problems are solved. If not today's model, tomorrow's will do it. And whichever it is, make it the most expensive one.
 
