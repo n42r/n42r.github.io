@@ -5,7 +5,7 @@ date: 2026-08-30
 series: agentic-skeleton
 series_num: 1
 series_title: The Agentic AI Skeleton
-image: /assets/img/posts/mode-barely-matters-big.svg
+image: /assets/img/posts/mode-barely-matters.svg
 image_alt: Two rows of equal sized similar looking circles 
 ---
 

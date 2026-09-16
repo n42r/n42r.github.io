@@ -13,7 +13,7 @@
 
   <rect class="bg" x="0" y="0" width="800" height="500"/>
 
-  <g class="fg">
+  <g class="fg" transform="translate(404 250) scale(1.42) translate(-377.5 -252.5)">
     <!-- top row -->
     <path transform="translate(232 192) rotate(8) scale(1.00)"
           d="M 7 -50 C 40 -48, 52 -28, 51 -2 C 50 26, 30 48, 2 49 C -28 50, -50 30, -51 0 C -52 -26, -34 -46, -3 -50"/>
