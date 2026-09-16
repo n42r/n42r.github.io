@@ -6,3 +6,5 @@ Gemfile.lock
 *.bkp
 *.dtmp
 *:Zone.Identifier
+
+_font-source-backup/
