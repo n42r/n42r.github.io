@@ -25,7 +25,7 @@ We ran it again — fresh session, different model, same prompt: "Welcome to the
 
 It got boring. Boring in the best way: fewer surprises, fewer interventions, less rework, lower variance between sessions. Cross-model session replacement became a normal operating mode — I destroy the agent at the end of every session and start fresh the next day, sometimes with a different model entirely.
 
-The documentation structure that emerged from this wasn't unique. I later came across OpenAI's February 2026 OpenAI's February 2026 ["Harness engineering" case study](https://openai.com/index/harness-engineering/) post. They had arrived at the same pattern: a short AGENTS.md used as a map rather than an encyclopedia, a structured `docs/` directory as the system of record, progressive disclosure. What I did on a €20/month budget in a regulated healthcare domain, they did at scale.
+The documentation structure that emerged from this wasn't unique. I later came across OpenAI's February 2026 ["Harness engineering" case study](https://openai.com/index/harness-engineering/) post. They had arrived at the same pattern: a short AGENTS.md used as a map rather than an encyclopedia, a structured `docs/` directory as the system of record, progressive disclosure. What I did on a €20/month budget in a regulated healthcare domain, they did at scale.
 
 The simplest way to test your codebase for amnesia resistance: give a fresh agent one real task, say nothing else, and watch where it gets lost. Then fix that. Repeat with a different model. When it stops getting lost, you're done — for now.
 
