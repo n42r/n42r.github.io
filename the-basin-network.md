@@ -34,7 +34,7 @@ more validating than the original novelty: the field arrived, a few years later,
 The full thesis is published [here](https://fis.uni-bamberg.de/handle/uniba/91269).
 
 <figure>
-  <img src="assets/img/bnet-er.drawio.svg" class="img-fluid"
+  <img src="/assets/img/bnet-er.drawio.svg" class="img-fluid"
        alt="Conceptual model of the Basin Network: Basins publish and catalogue Offerings, and subscribe to other Basins to exchange them. A Vocabulary library specifies an Offering. An Offering identifies and specifies a Dataset." />
   <figcaption>The Basin Network in one picture: Basins publish Offerings and subscribe to one another to exchange them across boundaries.</figcaption>
 </figure>
