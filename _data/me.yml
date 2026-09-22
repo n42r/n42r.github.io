@@ -1,8 +1,10 @@
 intro: |
-  15 years where systems, products, and teams intersect — from enterprise platforms to EU research consortia to founding and shipping production software. I work at the boundary between "what should we build" and "does it actually run." Architecture, leadership, and hands-on building — usually at least two at once. I help engineering leaders make better calls at that boundary.
+  15 years where systems, products, and teams intersect — from enterprise platforms to EU research consortia to founding and shipping production software. I work at the boundary between "what should we build" and "does it actually run." Architecture, leadership, and hands-on building — usually at least two at once.
+
+  I help technical leaders and organizations make better use of technology and AI where architecture, judgment, and organizational context matter.
 
 l2: |
-  Currently focused on AI-assisted software engineering: how architecture, team practices, and quality standards change when AI writes most of the code. I designed and tested a methodology for this by shipping a production product solo in 6 weeks — now writing about the approach and helping engineering teams adopt it.
+  Currently exploring how AI changes technical work — from AI-assisted software engineering to the way technical leaders handle knowledge, decisions, and oversight. I am doing this hands-on: I designed and tested an AI-assisted development methodology by shipping a production product solo in 6 weeks, and I am writing about what I learned.
 
 l3: |
   ## Selected work
@@ -15,6 +17,6 @@ l3: |
 
   ## What I do
 
-  - **AI adoption for engineering teams.** Assess where AI fits in your workflow, design the conventions that make it sustainable, pilot with real teams.
-  - **Senior solution architecture.** Reliability, tech-debt, system design, roadmaps that survive delivery. Hands-on when it helps.
-  - **Technical co-founding.** For founders moving from idea to product: architecture and AI-assisted development to move fast without cutting corners.
+  - **AI for technical organizations.** Explore where AI can create real leverage — from engineering workflows to technical leadership, knowledge, analysis, and oversight.
+  - **AI-assisted software engineering.** Assess where AI fits in development workflows, design the practices and conventions around it, and pilot with real teams.
+  - **Senior solution architecture.** Reliability, system design, technical debt, roadmaps, and technical decision-making. Hands-on when useful.
