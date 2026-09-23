@@ -15,7 +15,7 @@ I've spent the last year exploring this hands-on — most concretely in code, bu
 
 One pattern kept reappearing everywhere I used AI seriously — not just in that codebase, but in AI-assisted technical decision making as well as writing and brainstorming setups. The setups that held up were the ones designed to be ephemeral: built fresh at the start of a session, including whatever reference material they needed, and torn down completely at the end — rather than accumulating memory over time. In code that meant agents starting cold every session instead of chasing perfect recall. Same principle held outside code. Chasing persistence turned out to be the wrong instinct, generally.
 
-But that's one person, across a few domains — still a small sample. I want to get out of my own bubble.
+But that's one person, across a few domains — still a small sample. I want to get out of my own bubble, have a wider set of conversations, and then share what I find: the patterns, surprises, and disagreements that emerge across them.
 
 So over the next couple of weeks, I'm having a series of conversations with engineers, architects, technical leaders, founders, and others close to technical decision-making. Not a survey. Not a formal study. Not an attempt to prove a thesis. I'm as interested in what I'm getting wrong as what I'm getting right.
 
