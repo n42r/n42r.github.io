@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Getting out of my own bubble"
-date: 2026-09-26
+date: 2026-09-23
 series: conversations
 series_num: 1
 series_title: Conversations
