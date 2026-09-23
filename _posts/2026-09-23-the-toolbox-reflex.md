@@ -145,10 +145,10 @@ And does that new problem actually need another category of tooling?
 
 This is one of the more interesting observations I've had working with AI. You may be experiencing something different, or learning very different lessons.
 
-Over the next few weeks, I'm talking to engineers, architects, technical leaders and founders about where AI is genuinely creating leverage in their work, where it's mostly adding complexity, and how the role of technical leaders is changing as AI takes on more of the implementation. I'm not looking for agreement — I'm looking for the observations that don't match mine.
+Over the next few weeks, I'm talking to engineers, architects, technical leaders and founders about where AI is genuinely creating leverage in their work, where it's mostly adding complexity, and how the role of technical leaders is changing as AI takes on more of the implementation. I'm looking for the observations that don't match mine.
 
-I'll publish a synthesis of what I hear — the patterns, disagreements and surprises.
+I'll publish a synthesis of what I hear: the patterns, disagreements and surprises.
 
 It's also how I'm exploring my consulting practice: understanding real problems before deciding too narrowly what the answer should be.
 
-If you've been working through similar questions, I'd like to compare notes.
+If you've been working through similar questions, I'd like to compare notes. Feel free to reach out. I'm particularly interested in hearing what you're seeing in your own work.
