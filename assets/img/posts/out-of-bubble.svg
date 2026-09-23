@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-labelledby="title">
+  <title id="title">An open loop — two voices at the gap</title>
+  <defs>
+    <style>
+      .bg     { fill: #f8f6f3; }
+      .fg     { stroke: #3a3f47; }
+      .dim    { stroke: #6a7480; }
+      .accent { stroke: #0b6bcc; fill: none; }
+      .dot    { fill: #0b6bcc; }
+      @media (prefers-color-scheme: dark) {
+        .bg     { fill: #1c2128; }
+        .fg     { stroke: #cdd9e5; }
+        .dim    { stroke: #adbac7; }
+        .accent { stroke: #61caff; fill: none; }
+        .dot    { fill: #61caff; }
+      }
+    </style>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="800" height="500"/>
+
+  <!-- open conversation loop: one continuous gesture, mouth left on the left -->
+  <path class="accent" stroke-width="9" stroke-linecap="round"
+        d="M 172,166
+           C 240,112 340,98 428,106
+           C 550,116 704,158 714,250
+           C 722,336 600,398 450,402
+           C 330,405 220,382 164,334"/>
+
+  <!-- two voices at the open gap -->
+  <circle class="dot" cx="154" cy="156" r="12"/>
+  <circle class="dot" cx="150" cy="344" r="12"/>
+
+  <line class="fg" x1="154" y1="156" x2="142" y2="167" stroke-width="7" stroke-linecap="round"/>
+  <line class="fg" x1="150" y1="344" x2="138" y2="333" stroke-width="7" stroke-linecap="round"/>
+</svg>

@@ -5,8 +5,8 @@ date: 2026-09-23
 series: conversations
 series_num: 1
 series_title: Conversations
-image: 
-image_alt: 
+image: /assets/img/posts/out-of-bubble.svg
+image_alt: Open oval loop and two dots approaching each other to close the loop.
 ---
 
 AI is becoming capable enough to change how technical work gets done — from writing software to how technical people understand systems, make decisions, and provide oversight. What that actually means inside real engineering organizations — not in demos, not in pilot decks — is still much less clear.
