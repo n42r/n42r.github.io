@@ -5,12 +5,11 @@ date: 2026-09-23
 series: conversations
 series_num: 1
 series_title: Conversations
-image: /assets/img/posts/out-of-bubble.svg
-image_alt: "Open oval loop and two dots approaching each other to close the loop."
+image: /assets/img/posts/toolbox-reflex.svg
+image_alt: "Square in a square in a square."
 ---
 
-
-We keep making one category of technical work cheaper, and then reaching for new tooling to solve whatever bottleneck appears as a downstream effect.
+We keep making one category of technical work cheaper, and then reaching for new tooling to solve whatever bottleneck appears downstream.
 
 Sometimes that's exactly the right thing to do.
 
@@ -18,7 +17,7 @@ I'm starting to think we reach for it too quickly.
 
 I've done this myself.
 
-My agent kept falling into infinite loops, so I built a guardrail extension to stop it. It worked. Then I discovered I was spending more time managing the guardrail's false positives — the agent pausing when it wasn't actually stuck — than the original problem had cost me.
+My agent kept falling into infinite loops, so I built a guardrail extension to stop it. It worked. Then I discovered I was spending more time managing the guardrail's false positives — legitimately reusing a tool rather than repeating an operation — than the original problem had cost me.
 
 I removed it.
 
@@ -52,15 +51,15 @@ Code generation is the obvious example. If producing code becomes cheap, the cos
 
 And we're already seeing versions of this.
 
-GitHub's merged pull requests reportedly jumped from [around 25 million to 90 million per month](https://www.coderabbit.ai/blog/github-gives-maintainers-a-throttle-for-the-ai-pull-request). [Daniel Stenberg](https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/) shut down curl's bug bounty after the confirmation rate of reports fell below 5%. [tldraw](https://julien.danjou.info/blog/github-is-thinking-about-killing-pull-requests/) closed external pull requests. [Jazzband](https://thenewstack.io/ai-generated-code-crisis/) shut down entirely.
+GitHub's merged pull requests jumped from [around 25 million to 90 million per month](https://www.coderabbit.ai/blog/github-gives-maintainers-a-throttle-for-the-ai-pull-request). [Daniel Stenberg](https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/) shut down curl's bug bounty after the confirmation rate of reports fell below 5%. [tldraw](https://julien.danjou.info/blog/github-is-thinking-about-killing-pull-requests/) closed external pull requests. [Jazzband](https://thenewstack.io/ai-generated-code-crisis/) shut down entirely.
 
 The interesting part isn't just that these projects had more AI-generated code coming at them.
 
 It's how they responded.
 
-The responses included process changes: limits on pull requests, stronger accountability, different contribution policies, explicit human sign-off. The [Linux kernel](https://www.zdnet.com/article/linus-torvalds-and-maintainers-finalize-ai-policy-for-linux-kernel-developers/), for example, introduced a policy around AI-generated contributions rather than trying to build a system that detects and solves the problem automatically.
+The responses included process changes: limits on pull requests, stronger accountability, different contribution policies, explicit human sign-off. The [Linux kernel](https://www.zdnet.com/article/linus-torvalds-and-maintainers-finalize-ai-policy-for-linux-kernel-developers/), for example, responded with explicit rules around human review, responsibility and transparency for AI-assisted contributions.
 
-[The cost to create has dropped. The cost to review hasn't.](https://github.com/orgs/community/discussions/197319)
+> "[The cost to create has dropped. The cost to review hasn't.](https://github.com/orgs/community/discussions/197319)"
 
 And this is where the toolbox reflex kicks in.
 
@@ -80,11 +79,9 @@ But it makes the reflex harder to notice.
 
 The technology is no longer just waiting for us on the shelf. We can manufacture the shelf while we're still deciding what we need.
 
-[Evgeny Morozov called this solutionism](https://en.wikipedia.org/wiki/Technological_fix). I call it the toolbox reflex.
-
 ## Where did the effort go?
 
-I saw a different possibility while building Pflegehelfer.
+I saw a different possibility while building Pflegebericht.
 
 When I started the project, a typical development session roughly looked like this:
 
@@ -152,8 +149,14 @@ Did we create a different problem in the process?
 
 And does that new problem actually need another category of tooling?
 
-Most of this comes from one project, in one environment. I suspect the pattern looks different from where you're standing.
+---
+
+Most of this comes from fifteen years of building and leading technical work, most recently in the AI cycle. I suspect the pattern looks different from where you're standing.
 
 Over the next few weeks, I'm talking to engineers, architects, technical leaders and founders about where AI is genuinely creating leverage in their work, where it's mostly adding complexity, and how the role of technical leaders is changing as AI takes on more of the implementation. I'm not looking for agreement — I'm looking for the observations that don't match mine.
+
+I'll publish a synthesis of what I hear — the patterns, disagreements and surprises.
+
+It's also how I'm exploring my consulting practice: understanding real problems before deciding too narrowly what the answer should be.
 
 If you've been working through similar questions, I'd like to compare notes.

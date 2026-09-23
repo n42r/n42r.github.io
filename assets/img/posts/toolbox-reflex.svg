@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-labelledby="title">
+  <title id="title">Nested layers distilling toward a core</title>
+  <defs>
+    <style>
+      .bg  { fill: #f8f6f3; }
+      .ink { fill: none; stroke: #0b6bcc; stroke-width: 8; stroke-linecap: round; stroke-linejoin: round; }
+      @media (prefers-color-scheme: dark) {
+        .bg  { fill: #1c2128; }
+        .ink { stroke: #61caff; }
+      }
+    </style>
+  </defs>
+  <rect class="bg" x="0" y="0" width="800" height="500"/>
+  <path class="ink" d="M 511 91 C 400 87, 280 87, 196 92 C 190 200, 190 320, 194 420 C 300 426, 410 426, 516 422 C 520 330, 520 230, 519 109"/>
+  <path class="ink" d="M 232 394 C 300 397, 390 397, 456 392 C 462 320, 462 240, 458 160 C 390 154, 300 154, 226 158 C 222 230, 222 310, 221 384"/>
+  <path class="ink" d="M 268 221 C 310 219, 360 219, 390 222 C 394 270, 394 320, 390 356 C 350 360, 300 360, 262 358 C 258 320, 258 280, 256 229"/>
+</svg>
