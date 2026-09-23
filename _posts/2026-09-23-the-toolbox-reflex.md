@@ -9,25 +9,23 @@ image: /assets/img/posts/toolbox-reflex.svg
 image_alt: "Square in a square in a square."
 ---
 
-We keep making one category of technical work cheaper, and then reaching for new tooling to solve whatever bottleneck appears downstream.
+We make one category of technical work cheaper, and then reach for new tooling to solve the bottlenecks that appear downstream.
 
-Sometimes that's exactly the right thing to do.
+Sometimes that's the right thing to do.
 
 I'm starting to think we reach for it too quickly.
 
 I've done this myself.
 
-My agent kept falling into infinite loops, so I built a guardrail extension to stop it. It worked. Then I discovered I was spending more time managing the guardrail's false positives — legitimately reusing a tool rather than repeating an operation — than the original problem had cost me.
+My agent kept falling into infinite loops, so I built a guardrail extension to stop it. It worked. Then I discovered I was spending more time managing the guardrail's false positives than the original problem had cost me. The solution had become the problem.
 
 I removed it.
 
-Shorter tasks and more human intervention made the problem disappear.
-
-The solution had become the problem.
+Shorter tasks and more human intervention made the problem disappear. 
 
 The pattern repeated.
 
-When I started experimenting with agent harnesses, I installed six of them, with twenty skills and eight plugins — armed for a battle I didn't understand yet. I eventually ended up with one harness and two skills. [Databricks' benchmark](https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase) on a multi-million-line codebase found the same thing: "simple harnesses performed best on our workloads."
+When I started experimenting with agent harnesses, I installed six of them, with twenty skills and eight plugins — armed for a battle I didn't understand yet. I eventually ended up with one minimal [harness](https://pi.dev/) and two skills. [Databricks' benchmark](https://www.databricks.com/blog/benchmarking-coding-agents-databricks-multi-million-line-codebase) on a multi-million-line codebase found the same thing: "simple harnesses performed best on our workloads."
 
 More features hadn't made the system better. Stripping it down had.
 
@@ -39,41 +37,33 @@ It produced fancier-looking hallucinations.
 
 I closed both agents, took out pen and paper, and solved it by hand.
 
-The expensive tool made the problem worse. The unglamorous one solved it.
-
 ## When the bottleneck moves
 
 I think there is a broader pattern here.
 
 When one part of a technical process becomes dramatically cheaper, the bottleneck often moves somewhere else.
 
-Code generation is the obvious example. If producing code becomes cheap, the cost of understanding, reviewing, testing and integrating that code becomes relatively more important.
+AI-assisted development is the obvious example. If producing code becomes cheap, the cost of understanding, reviewing, testing and integrating that code becomes relatively more important. GitHub's merged pull requests jumped from [around 25 million to 90 million per month](https://www.coderabbit.ai/blog/github-gives-maintainers-a-throttle-for-the-ai-pull-request). [Daniel Stenberg](https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/) shut down curl's bug bounty after the confirmation rate of reports fell below 5%. [tldraw](https://julien.danjou.info/blog/github-is-thinking-about-killing-pull-requests/) closed external pull requests. [Jazzband](https://thenewstack.io/ai-generated-code-crisis/) shut down entirely.
 
-And we're already seeing versions of this.
-
-GitHub's merged pull requests jumped from [around 25 million to 90 million per month](https://www.coderabbit.ai/blog/github-gives-maintainers-a-throttle-for-the-ai-pull-request). [Daniel Stenberg](https://daniel.haxx.se/blog/2025/07/14/death-by-a-thousand-slops/) shut down curl's bug bounty after the confirmation rate of reports fell below 5%. [tldraw](https://julien.danjou.info/blog/github-is-thinking-about-killing-pull-requests/) closed external pull requests. [Jazzband](https://thenewstack.io/ai-generated-code-crisis/) shut down entirely.
-
-The interesting part isn't just that these projects had more AI-generated code coming at them.
-
-It's how they responded.
+The interesting part is how these projects responded.
 
 The responses included process changes: limits on pull requests, stronger accountability, different contribution policies, explicit human sign-off. The [Linux kernel](https://www.zdnet.com/article/linus-torvalds-and-maintainers-finalize-ai-policy-for-linux-kernel-developers/), for example, responded with explicit rules around human review, responsibility and transparency for AI-assisted contributions.
 
-> "[The cost to create has dropped. The cost to review hasn't.](https://github.com/orgs/community/discussions/197319)"
+[The cost to create has dropped. The cost to review hasn't.](https://github.com/orgs/community/discussions/197319)
 
-And this is where the toolbox reflex kicks in.
+*This is where the toolbox reflex kicks in.*
 
 If review becomes the bottleneck, the obvious next move is to build something that makes review cheaper.
 
-Sometimes that's exactly what we should do.
+Sometimes that's what we should do.
 
 But sometimes we're just moving the problem around.
 
 And in the current environment, there is another force at work. We're not only getting better at adopting existing tools. We're getting extraordinarily good at inventing new ones.
 
-When software is cheap to build, a newly exposed bottleneck can quickly become the justification for an entirely new category of tooling. Someone can identify the problem, build a prototype, wrap it in an agent, add an integration layer, and turn it into a product before we've really established whether the underlying problem deserves to exist in the first place.
+When software is cheap to build, a newly exposed bottleneck can quickly become the justification for an entirely new category of tooling. Someone can identify the problem, build a prototype, add an integration layer, and turn it into a product before we've really established whether the underlying problem deserves to exist.
 
-That doesn't make the resulting technology useless. Quite the opposite: some of those categories will turn out to be genuinely valuable.
+That doesn't make the resulting technology useless. Some of those categories will turn out to be genuinely valuable.
 
 But it makes the reflex harder to notice.
 
@@ -93,29 +83,31 @@ As I developed a more deliberate AI-assisted workflow, that distribution changed
 
 **60–70% pre-coding → ~20% coding → 10–20% post-coding**
 
-I spent much more time establishing the problem, constraints, domain contracts, architecture, context and intended approach before asking the AI to implement something.
+I spent much more time establishing the problem, constraints, domain contracts, architecture, context and intended approach before asking the AI to make a single change.
 
 The coding itself became a smaller part of the process.
 
 And the surprising part was that this didn't feel like slowing development down. It reduced the amount of expensive human attention spent cleaning up after the implementation.
 
-I'm not suggesting that 60–70% pre-coding is some universal optimum. It isn't.
+I'm not suggesting that 60–70% pre-coding is some universal optimum.
 
 The interesting observation is that when implementation became cheap, the effort didn't disappear.
 
-It moved.
+*It moved.*
 
-In my case, much of it moved upstream into understanding, deciding and constraining.
+In my case, it moved upstream.
 
 Instead of:
 
 **generate → inspect → discover misunderstanding → fix → repeat**
 
-I could increasingly work like this:
+The process looked like this:
 
-**understand → decide → constrain → generate → verify**
+**understand → brainstorm approaches → decide → plan implementation → generate → verify**
 
-Human judgment became more important in that part of the process.
+I also used AI in several of these steps, including to support technical analysis and oversight.
+
+Most of my judgment moved into the phases before code generation.
 
 But that's only one possible destination for the effort.
 
@@ -151,7 +143,7 @@ And does that new problem actually need another category of tooling?
 
 ---
 
-Most of this comes from fifteen years of building and leading technical work, most recently in the AI cycle. I suspect the pattern looks different from where you're standing.
+This is one of the more interesting observations I've had working with AI. You may be experiencing something different, or learning very different lessons.
 
 Over the next few weeks, I'm talking to engineers, architects, technical leaders and founders about where AI is genuinely creating leverage in their work, where it's mostly adding complexity, and how the role of technical leaders is changing as AI takes on more of the implementation. I'm not looking for agreement — I'm looking for the observations that don't match mine.
 
