@@ -41,6 +41,8 @@ The skill isn't in the tooling. It's in _tracing where_ the cost moved — and _
 
 Until you've done that, you haven't solved the original problem — you've just moved it.
 
+And maybe the review problem isn't a tooling problem. Maybe the judgment needs to move upstream — before the code is written, not after.
+
 ---
 
 This is one of the more interesting observations I've had working with AI. You may be experiencing something different. If you've been working through similar questions, I'd like to compare notes.
