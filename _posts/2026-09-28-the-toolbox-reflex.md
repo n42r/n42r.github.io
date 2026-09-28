@@ -5,7 +5,7 @@ date: 2026-09-28
 series: conversations
 series_num: 1
 series_title: Conversations
-image: /assets/img/posts/toolbox-reflex.svg
+image: /assets/img/posts/toolbox-reflex-revised.svg
 image_alt: "Circular dot in a square in a square in a square."
 ---
 

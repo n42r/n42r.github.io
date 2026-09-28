@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-labelledby="title">
+  <title id="title">Nested layers distilling toward a core</title>
+  <defs>
+    <style>
+      .bg       { fill: #f8f6f3; }
+      .accent-s { fill: none; stroke: #0b6bcc; stroke-width: 8; stroke-linecap: round; stroke-linejoin: round; }
+      .white-f  { fill: #ffffff; }
+      @media (prefers-color-scheme: dark) {
+        .bg       { fill: #1c2128; }
+        .accent-s { stroke: #61caff; }
+        .white-f  { fill: #ffffff; }
+      }
+    </style>
+  </defs>
+  <rect class="bg" x="0" y="0" width="800" height="500"/>
+  <path class="accent-s" d="M 289 91 C 400 87, 520 87, 604 92 C 610 200, 610 320, 606 420 C 500 426, 390 426, 284 422 C 280 330, 280 230, 281 109"/>
+  <path class="accent-s" d="M 568 394 C 500 397, 410 397, 344 392 C 338 320, 338 240, 342 160 C 410 154, 500 154, 574 158 C 578 230, 578 310, 579 384"/>
+  <path class="accent-s" d="M 532 221 C 490 219, 440 219, 410 222 C 406 270, 406 320, 410 356 C 450 360, 500 360, 538 358 C 542 320, 542 280, 544 229"/>
+  <ellipse class="white-f" cx="489" cy="303" rx="13" ry="11.5" transform="rotate(10 489 303)"/>
+</svg>
