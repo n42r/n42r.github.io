@@ -8,3 +8,5 @@ Gemfile.lock
 *:Zone.Identifier
 
 _font-source-backup/
+
+.pi/tasks/
