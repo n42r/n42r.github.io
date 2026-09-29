@@ -337,3 +337,53 @@ p.resume a {
   font-style: italic;
   margin: 0 0 16px;
 }
+
+/* Light mode (OS/browser prefers light): switch the dark-first palette to a
+   light one. Dark remains the default for browsers that report no preference. */
+@media (prefers-color-scheme: light) {
+  body {
+    background-color: #ffffff;
+  }
+
+  html * {
+    color: #1f2328;
+  }
+
+  h1,
+  .post-title,
+  .post-author h2.name,
+  .post-author h2.name a,
+  .notfound h1,
+  .series-box .series-label {
+    color: #1f2328;
+  }
+
+  .post-figure figcaption,
+  .location,
+  .series-box .series-count,
+  .post-date {
+    color: #59636e;
+  }
+
+  .read-time,
+  .listing-meta {
+    color: #59636e;
+  }
+
+  .notfound p {
+    color: #1f2328;
+  }
+
+  a,
+  .brand a,
+  .brand a:hover,
+  .post-author h2.name a:hover {
+    color: #0d6eff;
+  }
+
+  .series-box {
+    border: 1px solid #d8dee4;
+    border-left: 3px solid #0d6eff;
+    background: #f6f8fa;
+  }
+}

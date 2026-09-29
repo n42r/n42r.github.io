@@ -288,3 +288,50 @@ footer {
     color:#444;
   }
 }
+
+/* Dark mode (OS/browser prefers dark): darken the theme-base surfaces that
+   the page-level stylesheet does not already override. Light stays the default. */
+@media (prefers-color-scheme: dark) {
+  body {
+    color: #adbac7;
+  }
+
+  a {
+    color: #61caff;
+  }
+
+  blockquote {
+    border-left: 1px solid #3a3f47;
+  }
+
+  code, pre {
+    color: #c9d1d9;
+  }
+
+  pre {
+    background: #161a1f;
+    border: 1px solid #3a3f47;
+  }
+
+  table {
+    border-bottom-style: none;
+  }
+
+  th, td {
+    border-bottom: 1px solid #3a3f47;
+  }
+
+  dt, th, strong {
+    color: #cdd9e5;
+  }
+
+  hr {
+    background: #3a3f47;
+  }
+
+  kbd {
+    background-color: #22272e;
+    border: 1px solid #3a3f47;
+    color: #adbac7;
+  }
+}
