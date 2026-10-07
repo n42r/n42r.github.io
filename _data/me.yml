@@ -1,7 +1,7 @@
 intro: |
   15 years where systems, products, and teams intersect — from enterprise platforms to EU research consortia to founding and shipping production software. I work at the boundary between "what should we build" and "does it actually run." Architecture, leadership, and hands-on building — usually at least two at once.
 
-  I help technical leaders and organizations make better use of technology and AI where architecture, judgment, and organizational context matter.
+  I help technical leaders and organizations make better use of technology where architecture, judgment, and organizational context matter.
 
 l2: |
   Currently exploring how AI changes technical work — from AI-assisted software engineering to the way technical leaders handle knowledge, decisions, and oversight. I am doing this hands-on: I designed and tested an AI-assisted development methodology by shipping a production product solo in 6 weeks, and I am writing about what I learned.
@@ -17,6 +17,6 @@ l3: |
 
   ## What I do
 
-  - **AI for technical organizations.** Explore where AI can create real leverage — from engineering workflows to technical leadership, knowledge, analysis, and oversight.
-  - **AI-assisted software engineering.** Assess where AI fits in development workflows, design the practices and conventions around it, and pilot with real teams.
   - **Senior solution architecture.** Reliability, system design, technical debt, roadmaps, and technical decision-making. Hands-on when useful.
+  - **Federated & cross-organizational data architecture.** Systems that share data and decisions across organizational boundaries without full integration — manufacturing consortia, healthcare, multi-party platforms.
+  - **AI-assisted engineering adoption.** Where and how AI actually changes engineering workflows; conventions, quality gates, and piloting with real teams.
