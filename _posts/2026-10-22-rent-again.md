@@ -5,7 +5,7 @@ date: 2026-10-22
 series: conversations
 series_num: 2
 series_title: Conversations
-image: /assets/img/posts/open-source.svg
+image: /assets/img/posts/rent-again.svg
 image_alt: "Open box with a dot in the middle"
 ---
 
