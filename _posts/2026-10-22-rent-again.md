@@ -27,7 +27,9 @@ And here's the tell: the open-weight frontier is narrowing. Mistral's Voxtral li
 
 If producing LLMs isn't in the hands of the few — and it isn't — then the next frontier isn't open weight. It's open source. The whole pipeline — data, training, tooling, integration. That's where the effort goes. The window is open. It's narrower than it was three weeks ago.
 
-I've been through two hype cycles on this. I think the model isn't the moat and the economics just flipped. I might be an idealist — but defeatism isn't a counter-argument. If you've got a better one, bring it.
+---
+
+*I've been through two hype cycles on this. I think the model isn't the moat and the economics just flipped. I might be an idealist — but defeatism isn't a counter-argument. If you've got a better one, bring it.*
 
 ## Footnotes
 
