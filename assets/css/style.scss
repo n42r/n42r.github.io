@@ -60,9 +60,18 @@
 
 @import "jekyll-theme-minimal";
 
-html * {
- font-family: 'Montserrat', Fallback, sans-serif;
+body {
+  font-family: 'Montserrat', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
   color: #adbac7;
+}
+
+/* one text colour, inherited; the theme's per-element colours are reset */
+h2, h3, h4, h5, h6, strong, b, code, pre, kbd, dt, th, td, blockquote, small, summary, figcaption {
+  color: inherit;
+}
+
+main {
+  display: block;
 }
 
 body {background-color: #1c2128;}
@@ -106,7 +115,7 @@ main.page-content h1 {
 
 .post-figure figcaption {
   font-style: italic;
-  font-size: 14px;
+  font-size: 16px;
   color: #9299a6;
   margin-top: 8px;
 }
@@ -119,10 +128,10 @@ header img {
   margin:0 auto;
 }
 
-header h4 {
-  margin-top:14px;
-  margin-bottom:14px;
+header .headline {
+  font-size: 16px;
   font-weight: 400;
+  margin: 14px 0;
 }
 
 /* location under a card's contact/linkedin line */
@@ -170,9 +179,46 @@ a strong {
   color: inherit;
 }
 
+/* the theme turns hovered/focused links dark blue and bold; keep colour and weight,
+   thicken the underline instead, and give keyboard users a visible ring */
+a:hover,
+a:focus {
+  color: #61caff;
+  font-weight: inherit;
+  text-decoration-thickness: 2px;
+}
+
+a:focus-visible,
+summary:focus-visible {
+  outline: 2px solid #61caff;
+  outline-offset: 3px;
+}
+
+/* contact / linkedin links: comfortable tap targets */
+.links a {
+  display: inline-block;
+  padding: 8px 6px;
+}
+
+header .links {
+  margin: 0 0 24px;
+}
+
+/* desktop: the theme pins the header; let it scroll in short windows */
+@media (min-width: 961px) {
+  header {
+    overflow-y: auto;
+  }
+}
+
 /* breathing room around the collapsed intro toggle */
 details {
   margin: 0 0 4px;
+}
+
+/* subsection headings inside the collapsed intro stay modest */
+details h2 {
+  font-size: 20px;
 }
 
 details summary {
@@ -191,7 +237,7 @@ p.resume a {
 .read-time,
 .listing-meta {
   color: #c9d1d9;
-  font-size: 14px;
+  font-size: 16px;
   font-style: italic;
 }
 
@@ -235,7 +281,7 @@ p.resume a {
 
 .series-box .series-count {
   color: #9299a6;
-  font-size: 14px;
+  font-size: 16px;
   margin-left: 8px;
 }
 
@@ -248,7 +294,7 @@ p.resume a {
 }
 
 .series-box .series-nav a {
-  font-size: 15px;
+  font-size: 16px;
 }
 
 /* drop the superfluous bottom separator line in mobile */
@@ -293,7 +339,7 @@ p.resume a {
 /* published date under a post */
 .post-date {
   color: #9299a6;
-  font-size: 15px;
+  font-size: 16px;
   font-style: italic;
   margin: 40px 0 16px;
 }
@@ -345,7 +391,7 @@ p.resume a {
     background-color: #ffffff;
   }
 
-  html * {
+  body {
     color: #1f2328;
   }
 
@@ -375,15 +421,37 @@ p.resume a {
   }
 
   a,
+  a:hover,
+  a:focus,
   .brand a,
   .brand a:hover,
   .post-author h2.name a:hover {
     color: #0d6eff;
   }
 
+  a:focus-visible,
+  summary:focus-visible {
+    outline-color: #0d6eff;
+  }
+
   .series-box {
     border: 1px solid #d8dee4;
     border-left: 3px solid #0d6eff;
     background: #f6f8fa;
+  }
+}
+
+/* print: dark palette would come out light grey on paper */
+@media print {
+  body {
+    background-color: #fff;
+    color: #1f2328;
+  }
+
+  h1,
+  .post-title,
+  .post-author h2.name,
+  .post-author h2.name a {
+    color: #1f2328;
   }
 }

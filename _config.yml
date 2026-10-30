@@ -15,3 +15,11 @@ resume_url: "./assets/pdf/resume_kasrin.pdf"
 
 # posts render under /blog/<slug>/ (slug = filename minus date prefix)
 permalink: /blog/:title/
+# keep repo housekeeping and theme leftovers out of the published site
+exclude:
+  - AGENTS.md
+  - README.md
+  - docs
+  - script
+  - jekyll-theme-minimal.gemspec
+  - thumbnail.png
