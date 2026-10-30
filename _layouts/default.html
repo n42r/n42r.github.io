@@ -20,11 +20,11 @@
 	    <h1>{{ site.title }}{% if site.salutation %} ({{ site.salutation }}){% endif %}</h1>
 
         {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Photo" />
+          <img src="{{site.logo | relative_url}}" alt="{{ site.title }}" />
         {% endif %}
 
         {% if site.headline %}
-		    <h4>{{site.headline}}</h4>
+        <p class="headline">{{site.headline}}</p>
         {% endif %}
 
         {% if site.location %}
@@ -38,16 +38,15 @@
         {% endif %}
 
         {% if site.linkedin %}
-            &middot;
+            <span class="sep" aria-hidden="true">&middot;</span>
             <a href="https://www.linkedin.com/in/{{site.linkedin}}">LinkedIn</a>
         {% endif %}
 
         </div>
 
-        <br/>
+      </header>
 
-	</header>
-
+      <main>
       <section>
 
         {{ site.data.me.intro | markdownify }}
@@ -67,16 +66,8 @@
         </ul>
 
       </section>
+      </main>
 
-	<!--
-	  <footer>
-		{% if site.github.is_project_page %}
-        <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-
-
-      </footer>
     </div>
-    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
 </html>
